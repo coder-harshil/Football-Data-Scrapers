@@ -13,13 +13,6 @@ endy = []
 team = []
 outcome = []
 minute = []
-goal_x = []
-goal_y = []
-cx = []
-cy = []
-cendx = []
-cendy = []
-cplayer = []
 
 for a, b in data.items():
     if a == 'playerIdNameDictionary':
@@ -48,16 +41,9 @@ for k in data['events']:
             if par == 'minute':
                 minute.append(v)
 
-for w in data['events']:
-    if w['type']['displayName'] == 'Goal':
-        for c, d in w.items():
-            if c == 'x':
-                goal_x.append(d)
-            if c == 'y':
-                goal_y.append(d)
 
-col_names = ['player','x','y','endx','endy','team','outcome', 'minute', 'goalx', 'goaly']
-df = pd.DataFrame([player,x,y,endx,endy,team,outcome,minute,goal_x,goal_y], index = col_names)
+col_names = ['player','x','y','endx','endy','team','outcome', 'minute']
+df = pd.DataFrame([player,x,y,endx,endy,team,outcome,minute], index = col_names)
 df = df.T
 print(df)
 
