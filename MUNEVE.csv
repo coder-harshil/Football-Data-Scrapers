@@ -1,0 +1,1560 @@
+,player,kit,team,x,y,endx,endy,event,outcome,time
+0,Allan,6,31,49.9,50.0,31.9,51.8,Pass,Successful,0
+1,Yerry Mina,13,31,31.9,51.8,31.8,55.7,Pass,Successful,0
+2,Michael Keane,5,31,31.8,55.7,100.0,96.8,Pass,Unsuccessful,0
+3,David de Gea,1,32,3.0,46.4,10.8,83.7,Pass,Successful,0
+4,Raphaël Varane,19,32,21.6,82.8,27.3,95.4,Pass,Successful,0
+5,Luke Shaw,23,32,27.3,95.3,18.4,82.1,Pass,Successful,0
+6,Raphaël Varane,19,32,15.5,76.8,16.4,30.1,Pass,Successful,0
+7,Victor Lindelöf,2,32,21.1,32.8,31.3,70.8,Pass,Successful,0
+8,Raphaël Varane,19,32,35.3,75.5,38.1,94.5,Pass,Successful,0
+9,Luke Shaw,23,32,35.6,91.7,30.9,80.0,Pass,Successful,0
+10,Raphaël Varane,19,32,21.1,78.2,18.2,43.0,Pass,Successful,0
+11,Victor Lindelöf,2,32,20.9,35.0,27.1,13.9,Pass,Successful,0
+12,Scott McTominay,39,32,34.1,11.8,47.3,2.3,Pass,Successful,0
+13,Aaron Wan-Bissaka,29,32,47.0,2.8,46.4,16.0,Pass,Successful,0
+14,Mason Greenwood,11,32,41.7,13.7,29.0,32.9,Pass,Successful,0
+15,Victor Lindelöf,2,32,30.7,38.6,0.0,0.0,BallTouch,Successful,0
+16,Fred,17,32,53.2,72.2,68.3,98.0,Pass,Successful,1
+17,Anthony Martial,9,32,67.8,95.9,58.3,73.8,Pass,Successful,1
+18,Fred,17,32,58.3,71.3,48.0,58.1,Pass,Successful,1
+19,Victor Lindelöf,2,32,47.2,47.5,53.8,13.4,Pass,Successful,1
+20,Aaron Wan-Bissaka,29,32,58.2,15.5,63.3,6.1,Pass,Successful,1
+21,Mason Greenwood,11,32,63.2,6.1,74.9,29.5,Pass,Unsuccessful,1
+22,Michael Keane,5,31,28.0,80.3,35.0,78.5,Pass,Successful,1
+23,Allan,6,31,35.0,78.5,0.0,0.0,BallRecovery,Successful,1
+24,Allan,6,31,35.0,78.5,26.0,90.0,Pass,Successful,1
+25,Michael Keane,5,31,24.2,94.5,41.4,97.8,Pass,Unsuccessful,1
+26,Aaron Wan-Bissaka,29,32,62.4,3.4,0.0,0.0,BallRecovery,Successful,1
+27,Aaron Wan-Bissaka,29,32,62.4,3.4,69.1,3.7,Pass,Successful,1
+28,Scott McTominay,39,32,71.0,4.1,75.0,26.5,Pass,Unsuccessful,1
+29,Abdoulaye Doucouré,16,31,28.7,69.5,0.0,0.0,Interception,Successful,1
+30,Yerry Mina,13,31,10.2,60.5,0.0,0.0,BallRecovery,Successful,1
+31,Yerry Mina,13,31,10.2,60.5,4.7,55.2,Pass,Successful,1
+32,Jordan Pickford,1,31,4.7,55.2,34.6,40.4,Pass,Successful,1
+33,Andros Townsend,14,31,34.6,40.4,29.8,50.3,Pass,Successful,1
+34,Abdoulaye Doucouré,16,31,29.8,50.3,39.7,51.2,Pass,Successful,1
+35,Demarai Gray,11,31,38.6,50.7,30.3,51.3,Pass,Successful,1
+36,Abdoulaye Doucouré,16,31,30.3,51.3,34.2,60.8,Pass,Successful,1
+37,Allan,6,31,30.6,59.7,20.3,34.7,Pass,Successful,1
+38,Yerry Mina,13,31,21.7,31.1,34.3,4.4,Pass,Successful,1
+39,Ben Godfrey,22,31,34.3,4.4,45.1,4.6,Pass,Unsuccessful,1
+40,Luke Shaw,23,32,56.6,93.9,0.0,0.0,BallRecovery,Successful,1
+41,Luke Shaw,23,32,56.5,93.8,60.9,93.5,Pass,Unsuccessful,1
+42,Andros Townsend,14,31,39.2,4.6,0.0,0.0,BallTouch,Successful,1
+43,Luke Shaw,23,32,59.3,100.0,68.8,88.2,Pass,Successful,1
+44,Bruno Fernandes,18,32,68.8,88.2,60.7,95.7,Pass,Successful,1
+45,Luke Shaw,23,32,45.3,91.7,37.0,65.7,Pass,Successful,2
+46,Victor Lindelöf,2,32,37.7,59.7,52.6,50.1,Pass,Successful,2
+47,Scott McTominay,39,32,52.6,48.4,55.9,14.8,Pass,Successful,2
+48,Aaron Wan-Bissaka,29,32,70.0,10.0,77.5,4.3,Pass,Successful,2
+49,Mason Greenwood,11,32,78.5,3.5,88.9,8.8,Pass,Successful,2
+50,Aaron Wan-Bissaka,29,32,89.4,8.8,85.9,14.5,Pass,Unsuccessful,2
+51,Lucas Digne,12,31,13.3,86.3,0.0,0.0,BallRecovery,Successful,2
+52,Lucas Digne,12,31,13.3,86.3,27.4,74.1,Pass,Successful,2
+53,Allan,6,31,27.4,74.1,27.3,92.0,Pass,Unsuccessful,2
+54,Scott McTominay,39,32,75.2,7.3,0.0,0.0,BallRecovery,Successful,2
+55,Scott McTominay,39,32,75.2,7.3,83.8,13.4,Pass,Successful,2
+56,Mason Greenwood,11,32,83.5,13.4,88.3,8.2,Pass,Unsuccessful,2
+57,Lucas Digne,12,31,10.1,94.7,11.7,100.0,Clearance,Successful,2
+58,Aaron Wan-Bissaka,29,32,89.5,0.0,85.6,13.6,Pass,Successful,2
+59,Bruno Fernandes,18,32,85.5,13.7,85.6,3.7,Pass,Successful,2
+60,Aaron Wan-Bissaka,29,32,83.4,7.6,83.8,2.3,Pass,Successful,2
+61,Bruno Fernandes,18,32,83.8,2.3,77.2,11.2,Pass,Successful,2
+62,Mason Greenwood,11,32,74.6,13.4,69.8,56.0,Pass,Successful,2
+63,Luke Shaw,23,32,71.0,66.2,78.4,96.0,Pass,Successful,2
+64,Anthony Martial,9,32,83.1,89.6,75.9,78.8,Pass,Successful,2
+65,Luke Shaw,23,32,75.9,78.6,73.5,63.0,Pass,Successful,2
+66,Bruno Fernandes,18,32,73.5,63.0,78.7,68.0,Pass,Successful,2
+67,Luke Shaw,23,32,80.6,64.5,78.0,56.6,Pass,Successful,2
+68,Bruno Fernandes,18,32,77.9,56.3,84.1,59.0,Pass,Unsuccessful,2
+69,Yerry Mina,13,31,15.4,43.1,0.0,0.0,Interception,Successful,2
+70,Jordan Pickford,1,31,2.3,46.4,0.0,0.0,KeeperPickup,Successful,2
+71,Jordan Pickford,1,31,15.7,65.6,74.0,71.3,Pass,Unsuccessful,3
+72,Victor Lindelöf,2,32,28.3,32.8,33.7,11.0,Pass,Unsuccessful,3
+73,Anthony Gordon,24,31,67.6,91.8,60.2,84.3,Pass,Successful,3
+74,Allan,6,31,60.2,84.3,55.6,96.5,Pass,Successful,3
+75,Lucas Digne,12,31,55.6,96.5,69.5,100.0,Pass,Unsuccessful,3
+76,Aaron Wan-Bissaka,29,32,28.2,0.0,33.2,10.4,Pass,Successful,3
+77,Scott McTominay,39,32,33.2,10.4,28.6,4.6,Pass,Successful,3
+78,Aaron Wan-Bissaka,29,32,28.3,4.3,18.2,7.4,Pass,Successful,3
+79,Victor Lindelöf,2,32,18.2,7.4,50.5,8.0,Pass,Unsuccessful,3
+80,Michael Keane,5,31,47.4,90.3,69.7,70.5,Pass,Unsuccessful,3
+81,Fred,17,32,34.7,31.0,36.4,69.0,Pass,Successful,3
+82,Andros Townsend,14,31,60.9,33.0,0.0,0.0,Challenge,Unsuccessful,3
+83,Luke Shaw,23,32,39.1,67.0,0.0,0.0,TakeOn,Successful,3
+84,Luke Shaw,23,32,42.0,62.1,44.0,67.8,Pass,Unsuccessful,3
+85,Andros Townsend,14,31,58.6,30.1,0.0,0.0,BallTouch,Unsuccessful,3
+86,Bruno Fernandes,18,32,40.0,77.1,38.2,68.0,Pass,Successful,3
+87,Fred,17,32,38.2,68.0,47.9,81.8,Pass,Successful,3
+88,Luke Shaw,23,32,73.7,93.6,80.4,96.3,Pass,Successful,4
+89,Anthony Martial,9,32,80.9,93.5,72.7,78.3,Pass,Successful,4
+90,Fred,17,32,70.6,69.0,77.4,68.6,Pass,Successful,4
+91,Bruno Fernandes,18,32,77.5,69.0,80.5,60.2,Pass,Unsuccessful,4
+92,Michael Keane,5,31,18.6,48.7,33.0,50.9,Pass,Unsuccessful,4
+93,Fred,17,32,70.4,56.1,60.8,35.9,Pass,Successful,4
+94,Victor Lindelöf,2,32,60.8,35.8,73.8,12.8,Pass,Successful,4
+95,Mason Greenwood,11,32,71.4,7.7,69.9,3.1,Pass,Successful,4
+96,Aaron Wan-Bissaka,29,32,69.9,3.1,63.2,6.8,Pass,Successful,4
+97,Mason Greenwood,11,32,63.2,6.8,69.2,16.4,Pass,Successful,4
+98,Scott McTominay,39,32,69.2,16.4,64.0,22.9,Pass,Successful,4
+99,Mason Greenwood,11,32,64.0,22.9,63.4,40.9,Pass,Successful,4
+100,Fred,17,32,63.8,42.1,73.8,35.3,Pass,Successful,4
+101,Edinson Cavani,21,32,73.9,35.3,0.0,0.0,BallTouch,Successful,4
+102,Scott McTominay,39,32,71.9,31.0,79.4,13.7,Pass,Successful,4
+103,Aaron Wan-Bissaka,29,32,81.0,9.7,80.8,11.2,Pass,Unsuccessful,4
+104,Anthony Gordon,24,31,20.3,88.5,0.0,0.0,BlockedPass,Successful,4
+105,Lucas Digne,12,31,18.5,86.6,0.0,0.0,BallRecovery,Successful,4
+106,Lucas Digne,12,31,18.5,86.6,29.1,77.1,Pass,Successful,4
+107,Demarai Gray,11,31,32.8,62.4,94.3,79.4,Pass,Unsuccessful,4
+108,David de Gea,1,32,7.8,18.5,0.0,0.0,BallRecovery,Successful,4
+109,David de Gea,1,32,11.9,28.6,33.5,65.7,Pass,Successful,4
+110,Fred,17,32,33.5,65.6,37.8,47.9,Pass,Successful,4
+111,Scott McTominay,39,32,37.0,45.5,39.5,7.0,Pass,Successful,4
+112,Aaron Wan-Bissaka,29,32,42.1,5.9,36.5,26.5,Pass,Successful,4
+113,Victor Lindelöf,2,32,37.3,36.8,40.4,75.3,Pass,Successful,4
+114,Raphaël Varane,19,32,40.6,75.5,62.8,96.5,Pass,Successful,5
+115,Anthony Martial,9,32,63.1,96.5,74.8,95.0,Pass,Successful,5
+116,Bruno Fernandes,18,32,75.5,95.4,87.2,89.3,Pass,Unsuccessful,5
+117,Ben Godfrey,22,31,12.8,12.2,0.0,0.0,BallRecovery,Successful,5
+118,Ben Godfrey,22,31,7.4,9.4,11.2,0.0,Clearance,Successful,5
+119,Bruno Fernandes,18,32,88.0,100.0,76.5,84.2,Pass,Successful,5
+120,Fred,17,32,76.5,84.2,77.4,96.2,Pass,Successful,5
+121,Luke Shaw,23,32,77.4,96.2,85.4,93.2,Pass,Successful,5
+122,Bruno Fernandes,18,32,87.9,89.7,89.6,97.4,Pass,Successful,5
+123,Anthony Martial,9,32,89.6,97.4,77.5,93.0,Pass,Successful,5
+124,Luke Shaw,23,32,77.5,93.0,71.9,78.6,Pass,Successful,5
+125,Fred,17,32,72.1,78.5,69.7,47.8,Pass,Successful,5
+126,Scott McTominay,39,32,69.8,47.6,76.7,48.5,Pass,Successful,5
+127,Bruno Fernandes,18,32,76.7,48.5,76.9,41.3,Pass,Successful,5
+128,Edinson Cavani,21,32,76.9,41.3,79.5,20.3,Pass,Successful,5
+129,Lucas Digne,12,31,15.5,75.4,0.0,0.0,Challenge,Unsuccessful,5
+130,Aaron Wan-Bissaka,29,32,84.5,24.6,0.0,0.0,TakeOn,Successful,5
+131,Aaron Wan-Bissaka,29,32,88.8,20.3,96.7,58.2,Pass,Successful,5
+132,Anthony Martial,9,32,96.7,58.2,0.0,0.0,MissedShots,Successful,5
+133,Jordan Pickford,1,31,5.5,57.5,78.0,71.3,Pass,Unsuccessful,6
+134,Victor Lindelöf,2,32,21.2,30.5,0.0,0.0,BallRecovery,Successful,6
+135,Victor Lindelöf,2,32,21.2,30.5,7.7,54.0,Pass,Successful,6
+136,David de Gea,1,32,7.7,54.0,21.0,77.7,Pass,Successful,6
+137,Raphaël Varane,19,32,31.2,80.0,33.5,49.0,Pass,Successful,6
+138,Scott McTominay,39,32,38.2,37.4,47.1,3.2,Pass,Successful,6
+139,Aaron Wan-Bissaka,29,32,47.9,12.7,52.9,3.5,Pass,Successful,6
+140,Mason Greenwood,11,32,52.9,3.1,36.6,30.5,Pass,Successful,6
+141,Victor Lindelöf,2,32,36.6,30.5,73.4,96.3,Pass,Successful,6
+142,Anthony Martial,9,32,73.4,95.4,86.6,91.2,Pass,Successful,6
+143,Bruno Fernandes,18,32,85.8,89.1,0.0,0.0,TakeOn,Unsuccessful,6
+144,Yerry Mina,13,31,14.2,10.9,0.0,0.0,Tackle,Successful,6
+145,Ben Godfrey,22,31,16.4,7.3,0.0,0.0,BallRecovery,Successful,6
+146,Ben Godfrey,22,31,21.4,4.8,0.0,0.0,Foul,Successful,6
+147,Bruno Fernandes,18,32,78.6,95.2,0.0,0.0,Foul,Unsuccessful,6
+148,Jordan Pickford,1,31,23.2,6.1,66.3,68.1,Pass,Unsuccessful,7
+149,Aaron Wan-Bissaka,29,32,35.3,35.8,0.0,0.0,BallRecovery,Successful,7
+150,Aaron Wan-Bissaka,29,32,36.5,44.2,41.1,56.3,Pass,Successful,7
+151,Fred,17,32,44.0,54.8,74.6,33.2,Pass,Unsuccessful,7
+152,Michael Keane,5,31,24.7,72.5,0.0,0.0,BallRecovery,Successful,7
+153,Michael Keane,5,31,25.6,67.4,7.9,53.3,Pass,Successful,7
+154,Jordan Pickford,1,31,7.9,53.3,46.8,96.0,Pass,Unsuccessful,7
+155,Aaron Wan-Bissaka,29,32,54.1,4.9,0.0,0.0,Aerial,Successful,7
+156,Demarai Gray,11,31,45.9,95.1,0.0,0.0,Aerial,Unsuccessful,7
+157,Aaron Wan-Bissaka,29,32,54.9,5.8,55.9,16.9,Pass,Unsuccessful,7
+158,Anthony Gordon,24,31,44.0,89.6,0.0,0.0,BallTouch,Unsuccessful,7
+159,Aaron Wan-Bissaka,29,32,58.5,12.8,57.6,16.0,Pass,Unsuccessful,7
+160,Anthony Gordon,24,31,44.0,89.6,0.0,0.0,BallTouch,Successful,7
+161,Victor Lindelöf,2,32,39.2,20.8,0.0,0.0,BallRecovery,Successful,7
+162,Victor Lindelöf,2,32,39.2,20.8,48.2,17.0,Pass,Successful,7
+163,Aaron Wan-Bissaka,29,32,48.2,17.0,45.7,34.4,Pass,Successful,7
+164,Fred,17,32,48.5,44.9,72.4,95.7,Pass,Successful,7
+165,Anthony Martial,9,32,82.5,86.1,91.4,86.6,Pass,Successful,7
+166,Luke Shaw,23,32,91.5,86.6,91.7,84.2,Pass,Unsuccessful,7
+167,Ben Godfrey,22,31,7.3,16.3,0.0,0.0,Clearance,Successful,7
+168,Ben Godfrey,22,31,7.8,16.0,0.0,0.0,CornerAwarded,Unsuccessful,7
+169,Luke Shaw,23,32,92.2,84.0,0.0,0.0,CornerAwarded,Successful,7
+170,Luke Shaw,23,32,99.5,99.5,95.5,66.6,Pass,Unsuccessful,8
+171,Allan,6,31,4.5,43.4,7.9,55.2,Clearance,Successful,8
+172,Abdoulaye Doucouré,16,31,7.9,55.2,28.0,40.4,Clearance,Successful,8
+173,Fred,17,32,72.9,61.5,63.4,61.8,Pass,Successful,8
+174,Bruno Fernandes,18,32,63.4,61.8,91.0,26.2,Pass,Successful,8
+175,Mason Greenwood,11,32,95.3,26.9,96.8,100.0,Pass,Unsuccessful,8
+176,Ben Godfrey,22,31,4.4,0.0,28.9,8.2,Pass,Successful,9
+177,Salomón Rondón,33,31,29.0,8.2,27.9,19.3,Pass,Unsuccessful,9
+178,Bruno Fernandes,18,32,76.0,81.3,69.4,72.8,Pass,Unsuccessful,9
+179,Demarai Gray,11,31,33.4,42.6,0.0,0.0,TakeOn,Successful,9
+180,Raphaël Varane,19,32,66.6,57.4,0.0,0.0,Challenge,Unsuccessful,9
+181,Demarai Gray,11,31,34.5,52.7,35.3,89.6,Pass,Successful,9
+182,Lucas Digne,12,31,39.6,94.1,58.1,87.3,Pass,Successful,9
+183,Anthony Gordon,24,31,58.1,87.3,47.8,83.7,Pass,Successful,9
+184,Demarai Gray,11,31,43.9,89.9,48.3,77.4,Pass,Successful,9
+185,Anthony Gordon,24,31,46.7,75.9,41.4,63.2,Pass,Successful,9
+186,Abdoulaye Doucouré,16,31,52.7,28.0,58.5,5.9,Pass,Successful,9
+187,Ben Godfrey,22,31,59.0,5.2,53.4,19.9,Pass,Successful,9
+188,Abdoulaye Doucouré,16,31,53.4,19.9,42.6,31.0,Pass,Successful,9
+189,Yerry Mina,13,31,44.2,34.3,46.3,23.8,Pass,Successful,9
+190,Abdoulaye Doucouré,16,31,46.8,22.9,53.9,44.0,Pass,Successful,9
+191,Allan,6,31,53.7,43.1,39.9,29.0,Pass,Successful,9
+192,Abdoulaye Doucouré,16,31,43.4,42.1,40.7,65.7,Pass,Successful,9
+193,Michael Keane,5,31,42.1,63.6,66.8,7.9,Pass,Successful,9
+194,Salomón Rondón,33,31,74.2,85.7,0.0,0.0,OffsideGiven,Unsuccessful,10
+195,Ben Godfrey,22,31,66.0,3.2,70.7,4.0,Pass,Unsuccessful,10
+196,Luke Shaw,23,32,34.3,95.6,0.0,0.0,BlockedPass,Successful,10
+197,Ben Godfrey,22,31,62.4,1.9,38.2,19.7,Pass,Successful,10
+198,Yerry Mina,13,31,37.1,22.6,13.9,53.7,Pass,Successful,10
+199,Jordan Pickford,1,31,13.6,55.5,57.5,93.6,Pass,Successful,10
+200,Lucas Digne,12,31,57.5,93.6,68.6,92.6,Pass,Unsuccessful,10
+201,Anthony Gordon,24,31,68.2,92.2,0.0,0.0,Aerial,Successful,10
+202,Victor Lindelöf,2,32,31.8,7.8,0.0,0.0,Aerial,Unsuccessful,10
+203,Anthony Gordon,24,31,62.4,93.6,63.4,92.9,Pass,Unsuccessful,10
+204,Victor Lindelöf,2,32,33.1,8.9,0.0,0.0,BallTouch,Successful,10
+205,Lucas Digne,12,31,67.0,94.4,74.2,85.7,OffsidePass,Successful,10
+206,Victor Lindelöf,2,32,34.0,3.7,0.0,0.0,OffsideProvoked,Successful,10
+207,David de Gea,1,32,7.8,46.4,25.6,85.1,Pass,Successful,10
+208,Luke Shaw,23,32,28.4,75.8,27.7,51.9,Pass,Successful,10
+209,Raphaël Varane,19,32,27.7,52.1,35.7,8.3,Pass,Successful,10
+210,Aaron Wan-Bissaka,29,32,37.8,9.7,39.0,25.0,Pass,Successful,10
+211,Scott McTominay,39,32,39.2,51.3,39.4,85.8,Pass,Successful,10
+212,Aaron Wan-Bissaka,29,32,41.4,86.7,59.3,97.5,Pass,Successful,10
+213,Anthony Martial,9,32,51.3,79.5,39.9,54.3,Pass,Successful,11
+214,Victor Lindelöf,2,32,42.0,39.5,54.5,8.0,Pass,Successful,11
+215,Aaron Wan-Bissaka,29,32,55.8,6.7,58.6,24.8,Pass,Successful,11
+216,Scott McTominay,39,32,58.6,25.4,61.9,4.4,Pass,Successful,11
+217,Anthony Gordon,24,31,39.8,94.8,0.0,0.0,Challenge,Unsuccessful,11
+218,Mason Greenwood,11,32,60.2,5.2,0.0,0.0,TakeOn,Successful,11
+219,Mason Greenwood,11,32,55.6,8.0,38.5,31.9,Pass,Successful,11
+220,Victor Lindelöf,2,32,39.3,37.6,44.6,69.9,Pass,Successful,11
+221,Raphaël Varane,19,32,57.3,77.9,66.4,96.2,Pass,Successful,11
+222,Bruno Fernandes,18,32,67.7,97.4,100.0,74.7,Pass,Unsuccessful,11
+223,Jordan Pickford,1,31,5.5,42.8,8.5,29.3,Pass,Successful,11
+224,Yerry Mina,13,31,12.2,24.8,50.7,32.4,Pass,Successful,11
+225,Salomón Rondón,33,31,51.0,32.0,66.8,47.6,Pass,Unsuccessful,11
+226,Victor Lindelöf,2,32,26.8,35.8,0.0,0.0,BallRecovery,Successful,12
+227,Victor Lindelöf,2,32,26.5,34.9,28.0,7.1,Pass,Successful,12
+228,Anthony Gordon,24,31,65.4,95.2,0.0,0.0,Challenge,Unsuccessful,12
+229,Aaron Wan-Bissaka,29,32,34.6,4.8,0.0,0.0,TakeOn,Successful,12
+230,Aaron Wan-Bissaka,29,32,57.1,10.0,54.9,6.4,Pass,Successful,12
+231,Mason Greenwood,11,32,52.8,15.4,53.3,44.9,Pass,Successful,12
+232,Fred,17,32,54.2,46.1,62.2,81.6,Pass,Successful,12
+233,Luke Shaw,23,32,66.8,85.5,72.2,95.9,Pass,Successful,12
+234,Anthony Martial,9,32,72.3,95.1,69.1,80.9,Pass,Successful,12
+235,Bruno Fernandes,18,32,68.8,80.6,57.9,84.8,Pass,Successful,12
+236,Luke Shaw,23,32,57.9,84.8,51.2,69.9,Pass,Successful,12
+237,Raphaël Varane,19,32,49.3,65.0,66.1,6.8,Pass,Successful,12
+238,Aaron Wan-Bissaka,29,32,69.4,5.9,68.4,20.0,Pass,Successful,12
+239,Scott McTominay,39,32,70.9,9.7,72.9,3.7,Pass,Successful,12
+240,Aaron Wan-Bissaka,29,32,72.9,3.7,77.5,6.2,Pass,Successful,12
+241,Scott McTominay,39,32,77.4,6.2,76.2,15.5,Pass,Unsuccessful,12
+242,Abdoulaye Doucouré,16,31,25.3,86.3,0.0,0.0,Interception,Successful,12
+243,Mason Greenwood,11,32,76.4,17.2,0.0,0.0,BallTouch,Successful,12
+244,Michael Keane,5,31,19.5,83.6,0.0,0.0,BallRecovery,Successful,12
+245,Michael Keane,5,31,19.5,83.6,40.7,91.7,Pass,Unsuccessful,12
+246,Victor Lindelöf,2,32,61.2,9.3,0.0,0.0,Aerial,Successful,12
+247,Demarai Gray,11,31,38.8,90.7,0.0,0.0,Aerial,Unsuccessful,12
+248,Victor Lindelöf,2,32,63.2,10.3,0.0,0.0,Interception,Successful,12
+249,Lucas Digne,12,31,62.9,100.0,75.5,89.7,Pass,Unsuccessful,13
+250,Salomón Rondón,33,31,71.9,89.4,0.0,0.0,Foul,Successful,13
+251,Aaron Wan-Bissaka,29,32,28.1,10.6,0.0,0.0,Foul,Unsuccessful,13
+252,Lucas Digne,12,31,68.1,91.7,92.0,46.6,Pass,Unsuccessful,13
+253,Anthony Martial,9,32,8.1,57.8,14.4,100.0,Clearance,Successful,13
+254,Ben Godfrey,22,31,85.1,0.0,88.9,5.5,Pass,Successful,14
+255,Demarai Gray,11,31,87.2,4.3,86.7,3.1,Pass,Successful,14
+256,Ben Godfrey,22,31,86.7,3.1,87.5,6.4,Pass,Successful,14
+257,Andros Townsend,14,31,88.6,9.4,0.0,0.0,Dispossessed,Successful,14
+258,Bruno Fernandes,18,32,11.4,90.6,0.0,0.0,Tackle,Unsuccessful,14
+259,Andros Townsend,14,31,85.5,7.6,0.0,0.0,BallTouch,Successful,14
+260,Bruno Fernandes,18,32,12.3,89.4,0.0,0.0,BallTouch,Successful,14
+261,Andros Townsend,14,31,88.0,12.5,94.1,24.2,Pass,Successful,14
+262,Demarai Gray,11,31,94.5,24.7,91.8,45.1,Pass,Unsuccessful,14
+263,Mason Greenwood,11,32,9.9,53.7,30.3,80.7,Clearance,Successful,14
+264,Yerry Mina,13,31,67.0,19.4,88.2,57.3,Pass,Unsuccessful,14
+265,Aaron Wan-Bissaka,29,32,11.4,41.5,25.7,16.1,Clearance,Successful,14
+266,Lucas Digne,12,31,74.5,86.6,85.8,93.0,Pass,Successful,14
+267,Anthony Gordon,24,31,77.3,77.9,80.8,53.0,Pass,Successful,14
+268,Demarai Gray,11,31,80.8,53.0,82.1,54.8,Pass,Unsuccessful,14
+269,Raphaël Varane,19,32,17.8,46.9,0.0,0.0,BallTouch,Successful,14
+270,Demarai Gray,11,31,75.5,74.4,63.8,54.9,Pass,Successful,14
+271,Yerry Mina,13,31,65.2,39.2,75.1,32.0,Pass,Successful,14
+272,Andros Townsend,14,31,75.0,32.0,72.6,16.4,Pass,Successful,14
+273,Ben Godfrey,22,31,75.0,7.9,85.2,5.6,Pass,Successful,14
+274,Andros Townsend,14,31,85.0,7.2,0.0,0.0,Foul,Successful,14
+275,Luke Shaw,23,32,15.0,92.8,0.0,0.0,Foul,Unsuccessful,14
+276,Andros Townsend,14,31,85.5,4.4,92.2,46.3,Pass,Successful,15
+277,Michael Keane,5,31,90.0,44.8,0.0,0.0,Aerial,Successful,15
+278,Luke Shaw,23,32,10.0,55.2,0.0,0.0,Aerial,Unsuccessful,15
+279,Michael Keane,5,31,90.9,44.3,0.0,0.0,MissedShots,Successful,15
+280,David de Gea,1,32,3.8,48.5,20.8,9.9,Pass,Successful,15
+281,Victor Lindelöf,2,32,22.4,11.8,54.6,4.2,Pass,Successful,15
+282,Aaron Wan-Bissaka,29,32,73.8,2.6,73.6,17.8,Pass,Successful,16
+283,Mason Greenwood,11,32,96.4,9.6,0.0,0.0,TakeOn,Unsuccessful,16
+284,Lucas Digne,12,31,3.6,90.4,0.0,0.0,Tackle,Unsuccessful,16
+285,Allan,6,31,7.5,91.5,0.0,0.0,Challenge,Unsuccessful,16
+286,Aaron Wan-Bissaka,29,32,92.5,8.5,0.0,0.0,TakeOn,Successful,16
+287,Aaron Wan-Bissaka,29,32,91.0,13.6,0.0,0.0,TakeOn,Unsuccessful,16
+288,Lucas Digne,12,31,9.0,86.4,0.0,0.0,Tackle,Successful,16
+289,Michael Keane,5,31,8.9,73.5,0.0,0.0,BallRecovery,Successful,16
+290,Michael Keane,5,31,8.9,73.5,43.7,75.0,Pass,Unsuccessful,16
+291,Raphaël Varane,19,32,57.4,20.2,0.0,0.0,Aerial,Successful,16
+292,Demarai Gray,11,31,42.6,79.8,0.0,0.0,Aerial,Unsuccessful,16
+293,Raphaël Varane,19,32,58.5,15.4,59.4,7.0,Pass,Unsuccessful,16
+294,Salomón Rondón,33,31,40.6,92.8,0.0,0.0,Aerial,Successful,16
+295,Raphaël Varane,19,32,59.4,7.2,0.0,0.0,Aerial,Unsuccessful,16
+296,Salomón Rondón,33,31,41.5,89.3,38.1,72.5,Pass,Successful,16
+297,Andros Townsend,14,31,38.8,71.7,56.0,73.7,Pass,Unsuccessful,16
+298,Victor Lindelöf,2,32,42.4,21.8,0.0,0.0,BallRecovery,Successful,16
+299,Victor Lindelöf,2,32,42.4,21.8,36.5,62.3,Pass,Successful,16
+300,Luke Shaw,23,32,42.3,74.0,63.4,96.0,Pass,Successful,16
+301,Anthony Martial,9,32,75.6,88.1,74.2,69.8,Pass,Successful,16
+302,Fred,17,32,74.1,68.1,72.5,52.7,Pass,Successful,16
+303,Scott McTominay,39,32,72.0,50.0,76.2,28.1,Pass,Successful,16
+304,Aaron Wan-Bissaka,29,32,76.8,27.2,88.1,13.9,Pass,Successful,16
+305,Mason Greenwood,11,32,82.2,16.3,97.7,23.9,Pass,Successful,16
+306,Scott McTominay,39,32,97.7,23.9,96.9,39.8,Pass,Unsuccessful,16
+307,Michael Keane,5,31,3.0,59.9,0.0,75.6,Clearance,Successful,16
+308,Michael Keane,5,31,0.8,67.9,0.0,0.0,CornerAwarded,Unsuccessful,16
+309,Scott McTominay,39,32,99.2,32.1,0.0,0.0,CornerAwarded,Successful,16
+310,Bruno Fernandes,18,32,99.6,0.2,85.0,14.3,Pass,Successful,17
+311,Mason Greenwood,11,32,84.6,14.3,95.3,51.8,Pass,Unsuccessful,17
+312,Yerry Mina,13,31,4.4,48.8,0.0,0.0,Aerial,Successful,17
+313,Scott McTominay,39,32,95.6,51.2,0.0,0.0,Aerial,Unsuccessful,17
+314,Yerry Mina,13,31,3.2,50.6,15.2,33.2,Clearance,Successful,17
+315,Luke Shaw,23,32,85.5,61.7,89.7,55.7,Pass,Unsuccessful,17
+316,Ben Godfrey,22,31,12.8,37.4,0.0,0.0,BallRecovery,Successful,17
+317,Ben Godfrey,22,31,62.5,11.2,81.9,4.3,Pass,Successful,17
+318,Andros Townsend,14,31,85.7,4.4,74.5,4.0,Pass,Successful,17
+319,Ben Godfrey,22,31,74.5,4.0,92.0,49.0,Pass,Unsuccessful,17
+320,Raphaël Varane,19,32,8.5,47.3,20.2,45.2,Clearance,Successful,17
+321,Abdoulaye Doucouré,16,31,81.0,51.2,98.4,81.8,Pass,Successful,17
+322,Anthony Gordon,24,31,97.1,81.8,95.5,73.2,Pass,Unsuccessful,17
+323,Edinson Cavani,21,32,3.3,25.4,0.0,0.0,BallTouch,Successful,17
+324,Mason Greenwood,11,32,17.0,30.7,0.0,0.0,BallRecovery,Successful,17
+325,Abdoulaye Doucouré,16,31,78.2,70.0,0.0,0.0,Challenge,Unsuccessful,17
+326,Mason Greenwood,11,32,21.8,30.0,0.0,0.0,TakeOn,Successful,17
+327,Mason Greenwood,11,32,25.4,23.2,32.3,5.3,Pass,Successful,17
+328,Edinson Cavani,21,32,32.3,5.3,30.3,10.6,Pass,Successful,17
+329,Bruno Fernandes,18,32,28.8,13.4,0.0,0.0,TakeOn,Unsuccessful,17
+330,Abdoulaye Doucouré,16,31,71.2,86.6,0.0,0.0,Tackle,Successful,17
+331,Anthony Gordon,24,31,75.2,73.8,0.0,0.0,BallTouch,Unsuccessful,17
+332,Mason Greenwood,11,32,31.4,23.2,32.6,25.9,Pass,Unsuccessful,17
+333,Allan,6,31,69.0,65.7,0.0,0.0,BlockedPass,Successful,17
+334,Demarai Gray,11,31,75.0,87.0,0.0,0.0,BallRecovery,Successful,17
+335,Demarai Gray,11,31,75.0,87.0,53.9,51.2,Pass,Successful,17
+336,Yerry Mina,13,31,53.3,46.0,65.8,30.1,Pass,Successful,17
+337,Andros Townsend,14,31,65.8,30.1,53.1,42.7,Pass,Successful,17
+338,Yerry Mina,13,31,57.4,35.2,55.9,11.3,Pass,Successful,18
+339,Ben Godfrey,22,31,56.2,10.6,44.9,26.3,Pass,Successful,18
+340,Yerry Mina,13,31,42.5,27.5,15.0,47.2,Pass,Successful,18
+341,Jordan Pickford,1,31,17.2,53.9,62.5,40.6,Pass,Successful,18
+342,Salomón Rondón,33,31,62.5,40.6,75.1,23.2,Pass,Unsuccessful,18
+343,Luke Shaw,23,32,28.2,82.8,0.0,0.0,BallRecovery,Successful,18
+344,Luke Shaw,23,32,28.2,82.8,36.8,94.4,Pass,Successful,18
+345,Anthony Martial,9,32,53.5,89.4,67.8,97.8,Pass,Successful,18
+346,Bruno Fernandes,18,32,68.1,94.7,76.2,14.9,Pass,Unsuccessful,18
+347,Lucas Digne,12,31,26.8,87.6,32.7,100.0,Clearance,Successful,18
+348,Aaron Wan-Bissaka,29,32,67.3,0.0,41.3,24.2,Pass,Successful,18
+349,Victor Lindelöf,2,32,41.3,24.2,45.3,57.8,Pass,Successful,18
+350,Raphaël Varane,19,32,45.5,59.0,53.7,78.0,Pass,Successful,18
+351,Luke Shaw,23,32,57.0,81.8,74.9,97.8,Pass,Successful,18
+352,Anthony Martial,9,32,87.2,84.0,96.8,49.9,Pass,Unsuccessful,19
+353,Jordan Pickford,1,31,3.0,51.9,0.0,0.0,KeeperPickup,Successful,19
+354,Jordan Pickford,1,31,14.3,54.6,15.9,31.6,Pass,Successful,19
+355,Yerry Mina,13,31,19.6,27.2,56.1,43.7,Pass,Unsuccessful,19
+356,Raphaël Varane,19,32,44.7,58.8,55.0,35.6,Pass,Unsuccessful,19
+357,Anthony Gordon,24,31,45.3,61.8,0.0,0.0,Aerial,Successful,19
+358,Scott McTominay,39,32,54.7,38.2,0.0,0.0,Aerial,Unsuccessful,19
+359,Anthony Gordon,24,31,45.0,63.9,61.5,60.3,Pass,Successful,19
+360,Salomón Rondón,33,31,61.5,60.3,43.5,63.6,Pass,Successful,19
+361,Abdoulaye Doucouré,16,31,43.5,63.6,43.8,68.3,Pass,Successful,19
+362,Lucas Digne,12,31,43.8,68.3,43.3,62.1,Pass,Successful,19
+363,Abdoulaye Doucouré,16,31,43.3,62.1,29.0,71.7,Pass,Successful,19
+364,Michael Keane,5,31,29.9,71.6,40.4,77.9,Pass,Successful,19
+365,Allan,6,31,42.0,71.4,30.8,43.0,Pass,Successful,19
+366,Yerry Mina,13,31,30.8,43.0,26.7,61.1,Pass,Successful,19
+367,Michael Keane,5,31,25.2,65.9,10.1,51.0,Pass,Successful,19
+368,Jordan Pickford,1,31,9.7,43.0,45.2,14.3,Pass,Unsuccessful,19
+369,Luke Shaw,23,32,58.6,73.7,0.0,0.0,BallRecovery,Successful,19
+370,Luke Shaw,23,32,62.5,69.5,55.6,47.6,Pass,Successful,19
+371,Scott McTominay,39,32,59.6,59.0,68.8,70.5,Pass,Successful,19
+372,Bruno Fernandes,18,32,68.8,70.5,56.3,69.8,Pass,Successful,19
+373,Fred,17,32,56.3,69.8,70.5,97.7,Pass,Successful,19
+374,Anthony Martial,9,32,71.2,95.9,64.6,80.4,Pass,Successful,19
+375,Fred,17,32,64.4,80.0,68.1,71.4,Pass,Successful,20
+376,Luke Shaw,23,32,68.1,71.4,67.4,82.2,Pass,Successful,20
+377,Fred,17,32,68.1,82.7,79.8,97.1,Pass,Successful,20
+378,Anthony Martial,9,32,77.8,88.1,72.4,71.0,Pass,Successful,20
+379,Bruno Fernandes,18,32,72.4,71.0,77.3,95.3,Pass,Successful,20
+380,Fred,17,32,77.0,79.5,90.3,44.0,Pass,Successful,20
+381,Edinson Cavani,21,32,90.3,44.0,0.0,0.0,SavedShot,Successful,20
+382,Jordan Pickford,1,31,1.4,49.2,0.0,0.0,Save,Successful,20
+383,Jordan Pickford,1,31,6.2,52.7,0.0,0.0,CornerAwarded,Unsuccessful,20
+384,Edinson Cavani,21,32,93.8,47.3,0.0,0.0,CornerAwarded,Successful,20
+385,Luke Shaw,23,32,99.5,99.5,93.2,50.3,Pass,Unsuccessful,20
+386,Yerry Mina,13,31,5.9,44.3,15.4,40.1,Clearance,Successful,20
+387,Demarai Gray,11,31,15.4,40.1,44.2,33.8,Clearance,Successful,20
+388,Fred,17,32,56.0,74.9,54.0,50.7,Pass,Successful,20
+389,Bruno Fernandes,18,32,54.0,50.7,21.9,41.0,Pass,Successful,20
+390,David de Gea,1,32,20.6,35.6,34.1,9.4,Pass,Successful,20
+391,Bruno Fernandes,18,32,45.7,20.2,74.1,77.6,Pass,Unsuccessful,21
+392,Ben Godfrey,22,31,29.9,16.6,42.5,4.9,Pass,Unsuccessful,21
+393,Fred,17,32,67.8,94.5,74.0,90.6,Pass,Successful,21
+394,Luke Shaw,23,32,74.0,90.6,76.7,87.6,Pass,Unsuccessful,21
+395,Ben Godfrey,22,31,32.1,8.9,44.8,1.9,Pass,Successful,21
+396,Andros Townsend,14,31,44.8,1.9,53.7,5.3,Pass,Successful,21
+397,Demarai Gray,11,31,55.4,3.4,0.0,0.0,BallRecovery,Successful,21
+398,Demarai Gray,11,31,58.4,10.2,0.0,0.0,Foul,Successful,21
+399,Fred,17,32,41.6,89.8,0.0,0.0,Foul,Unsuccessful,21
+400,Demarai Gray,11,31,61.5,15.2,89.7,50.6,Pass,Unsuccessful,22
+401,Raphaël Varane,19,32,14.1,47.3,23.5,32.9,Clearance,Successful,22
+402,Lucas Digne,12,31,78.2,63.2,92.2,83.0,Pass,Successful,22
+403,Ben Godfrey,22,31,89.8,84.9,79.1,86.0,Pass,Successful,22
+404,Anthony Gordon,24,31,79.0,85.7,63.6,73.8,Pass,Successful,22
+405,Allan,6,31,62.0,69.8,100.0,27.8,Pass,Unsuccessful,22
+406,David de Gea,1,32,4.8,51.5,6.3,42.2,Pass,Successful,22
+407,Victor Lindelöf,2,32,13.1,45.7,19.8,76.1,Pass,Successful,22
+408,Raphaël Varane,19,32,20.9,77.4,27.6,89.9,Pass,Successful,22
+409,Luke Shaw,23,32,27.6,89.9,38.5,95.1,Pass,Successful,22
+410,Bruno Fernandes,18,32,41.8,92.9,60.8,97.2,Pass,Successful,22
+411,Anthony Martial,9,32,70.7,85.2,71.4,72.2,Pass,Successful,22
+412,Edinson Cavani,21,32,71.4,72.2,68.2,72.3,Pass,Successful,22
+413,Bruno Fernandes,18,32,68.4,64.8,72.9,31.9,Pass,Successful,22
+414,Aaron Wan-Bissaka,29,32,75.1,29.2,85.8,8.2,Pass,Successful,22
+415,Mason Greenwood,11,32,83.8,10.9,77.8,40.1,Pass,Successful,23
+416,Bruno Fernandes,18,32,76.8,36.8,76.3,23.8,Pass,Successful,23
+417,Mason Greenwood,11,32,76.3,23.8,79.8,30.4,Pass,Successful,23
+418,Scott McTominay,39,32,79.8,30.4,87.7,11.2,Pass,Successful,23
+419,Aaron Wan-Bissaka,29,32,87.7,11.2,88.3,16.9,Pass,Unsuccessful,23
+420,Lucas Digne,12,31,13.8,83.0,0.0,0.0,BallTouch,Successful,23
+421,Lucas Digne,12,31,12.8,83.0,0.0,0.0,CornerAwarded,Unsuccessful,23
+422,Aaron Wan-Bissaka,29,32,87.2,17.0,0.0,0.0,CornerAwarded,Successful,23
+423,Bruno Fernandes,18,32,99.5,0.5,94.1,47.0,Pass,Unsuccessful,23
+424,Michael Keane,5,31,4.7,52.2,23.7,70.5,Clearance,Successful,23
+425,Fred,17,32,76.4,30.2,78.9,7.4,Pass,Successful,23
+426,Bruno Fernandes,18,32,78.9,7.4,89.4,39.8,Pass,Unsuccessful,23
+427,Allan,6,31,12.9,63.8,13.7,74.0,Pass,Successful,23
+428,Lucas Digne,12,31,12.6,78.3,0.0,0.0,BallRecovery,Successful,23
+429,Lucas Digne,12,31,11.7,87.2,13.4,87.5,Pass,Unsuccessful,23
+430,Victor Lindelöf,2,32,83.9,10.7,0.0,0.0,BlockedPass,Successful,23
+431,Lucas Digne,12,31,20.4,100.0,37.6,95.0,Pass,Successful,23
+432,Salomón Rondón,33,31,39.6,94.6,0.0,0.0,Aerial,Successful,23
+433,Scott McTominay,39,32,60.4,5.4,0.0,0.0,Aerial,Unsuccessful,23
+434,Salomón Rondón,33,31,37.6,94.6,39.7,95.2,Pass,Unsuccessful,23
+435,Scott McTominay,39,32,58.5,5.9,0.0,0.0,BallTouch,Successful,24
+436,Fred,17,32,59.8,15.2,0.0,0.0,BallRecovery,Successful,24
+437,Fred,17,32,59.8,15.2,67.0,4.0,Pass,Successful,24
+438,Mason Greenwood,11,32,67.1,4.0,72.8,11.6,Pass,Successful,24
+439,Edinson Cavani,21,32,72.8,11.6,65.6,13.6,Pass,Successful,24
+440,Bruno Fernandes,18,32,65.6,13.6,63.3,4.4,Pass,Successful,24
+441,Mason Greenwood,11,32,65.7,6.4,46.2,35.2,Pass,Successful,24
+442,Fred,17,32,46.2,35.2,58.7,73.4,Pass,Successful,24
+443,Luke Shaw,23,32,62.5,80.7,73.5,80.1,Pass,Successful,24
+444,Anthony Martial,9,32,73.5,80.1,69.6,73.2,Pass,Successful,24
+445,Luke Shaw,23,32,70.4,70.5,70.0,65.0,Pass,Successful,24
+446,Bruno Fernandes,18,32,70.0,65.0,64.4,72.6,Pass,Successful,24
+447,Fred,17,32,64.4,72.6,67.6,68.7,Pass,Unsuccessful,24
+448,Abdoulaye Doucouré,16,31,35.1,33.7,0.0,0.0,BallRecovery,Successful,24
+449,Abdoulaye Doucouré,16,31,41.3,6.2,42.8,19.4,Pass,Successful,24
+450,Andros Townsend,14,31,67.1,24.8,85.8,17.8,Pass,Successful,24
+451,Abdoulaye Doucouré,16,31,88.7,19.0,90.3,43.1,Pass,Successful,24
+452,Salomón Rondón,33,31,90.0,41.5,0.0,0.0,SavedShot,Successful,24
+453,Victor Lindelöf,2,32,8.9,57.5,0.0,0.0,Save,Successful,24
+454,Bruno Fernandes,18,32,14.5,81.2,0.0,0.0,BallRecovery,Successful,24
+455,Bruno Fernandes,18,32,29.4,73.7,39.0,41.2,Pass,Successful,24
+456,Edinson Cavani,21,32,34.4,41.9,34.5,8.6,Pass,Successful,24
+457,Aaron Wan-Bissaka,29,32,34.7,8.6,30.4,24.1,Pass,Successful,24
+458,Edinson Cavani,21,32,30.0,27.1,29.1,46.9,Pass,Successful,24
+459,Victor Lindelöf,2,32,29.1,46.9,42.4,69.3,Pass,Successful,24
+460,Fred,17,32,42.4,69.3,61.3,95.7,Pass,Successful,24
+461,Anthony Martial,9,32,57.1,95.1,43.6,91.2,Pass,Successful,24
+462,Luke Shaw,23,32,43.4,87.6,38.9,69.3,Pass,Successful,24
+463,Raphaël Varane,19,32,47.6,44.3,58.9,8.0,Pass,Successful,25
+464,Aaron Wan-Bissaka,29,32,66.9,17.0,66.8,3.8,Pass,Successful,25
+465,Mason Greenwood,11,32,65.7,8.2,45.6,19.1,Pass,Successful,25
+466,Victor Lindelöf,2,32,47.3,26.2,53.5,76.4,Pass,Successful,25
+467,Raphaël Varane,19,32,64.5,80.7,77.6,97.7,Pass,Successful,25
+468,Anthony Martial,9,32,83.1,86.1,75.0,85.7,Pass,Successful,25
+469,Luke Shaw,23,32,75.8,82.4,79.2,78.3,Pass,Successful,25
+470,Anthony Martial,9,32,77.5,78.0,78.8,78.9,Pass,Unsuccessful,25
+471,Ben Godfrey,22,31,25.8,24.8,0.0,0.0,BlockedPass,Successful,25
+472,Luke Shaw,23,32,78.9,100.0,74.4,72.6,Pass,Successful,25
+473,Fred,17,32,74.4,72.6,70.7,54.8,Pass,Successful,25
+474,Scott McTominay,39,32,71.0,50.1,76.6,30.1,Pass,Successful,25
+475,Mason Greenwood,11,32,81.2,28.5,0.0,0.0,SavedShot,Successful,25
+476,Jordan Pickford,1,31,1.5,54.1,0.0,0.0,Save,Successful,25
+477,Jordan Pickford,1,31,3.2,53.6,0.0,0.0,KeeperPickup,Successful,25
+478,Jordan Pickford,1,31,10.1,56.0,76.3,60.9,Pass,Unsuccessful,26
+479,Victor Lindelöf,2,32,24.1,29.0,40.9,43.1,Pass,Unsuccessful,26
+480,Abdoulaye Doucouré,16,31,56.8,54.8,70.5,81.8,Pass,Successful,26
+481,Anthony Gordon,24,31,70.8,81.4,74.1,75.8,Pass,Unsuccessful,26
+482,Aaron Wan-Bissaka,29,32,28.7,23.2,0.0,0.0,BallRecovery,Successful,26
+483,Aaron Wan-Bissaka,29,32,41.8,17.8,48.2,4.6,Pass,Successful,26
+484,Allan,6,31,26.6,86.6,0.0,0.0,Challenge,Unsuccessful,26
+485,Mason Greenwood,11,32,73.4,13.4,0.0,0.0,TakeOn,Successful,26
+486,Mason Greenwood,11,32,73.3,17.0,79.7,91.1,Pass,Successful,26
+487,Anthony Martial,9,32,92.1,72.1,0.0,0.0,TakeOn,Unsuccessful,26
+488,Ben Godfrey,22,31,7.9,27.9,0.0,0.0,Tackle,Successful,26
+489,Andros Townsend,14,31,13.9,27.2,0.0,0.0,BallTouch,Successful,26
+490,Anthony Martial,9,32,86.5,71.7,70.1,60.6,Pass,Successful,26
+491,Bruno Fernandes,18,32,70.1,60.6,91.1,26.8,Pass,Successful,26
+492,Aaron Wan-Bissaka,29,32,91.1,26.8,0.0,0.0,BallTouch,Unsuccessful,26
+493,Jordan Pickford,1,31,5.3,56.9,64.9,62.3,Pass,Unsuccessful,27
+494,Raphaël Varane,19,32,33.2,43.6,60.3,34.6,Pass,Successful,27
+495,Edinson Cavani,21,32,59.8,34.6,0.0,0.0,BallTouch,Unsuccessful,27
+496,Allan,6,31,43.8,66.8,42.5,65.7,Pass,Unsuccessful,27
+497,Edinson Cavani,21,32,59.6,36.4,0.0,0.0,BallTouch,Successful,27
+498,Abdoulaye Doucouré,16,31,44.6,53.6,41.4,66.0,Pass,Successful,27
+499,Allan,6,31,43.8,75.9,48.0,76.4,Pass,Successful,27
+500,Anthony Gordon,24,31,46.4,76.5,0.0,0.0,Dispossessed,Successful,27
+501,Scott McTominay,39,32,53.6,23.5,0.0,0.0,Tackle,Successful,27
+502,Lucas Digne,12,31,38.0,84.3,52.9,0.0,Pass,Unsuccessful,27
+503,Luke Shaw,23,32,53.5,100.0,61.9,81.0,Pass,Successful,29
+504,Edinson Cavani,21,32,61.9,81.0,60.0,77.0,Pass,Unsuccessful,29
+505,Allan,6,31,41.0,24.2,0.0,0.0,Interception,Successful,29
+506,Allan,6,31,40.2,24.4,0.0,0.0,BallRecovery,Successful,29
+507,Allan,6,31,40.2,24.4,40.6,23.3,Pass,Unsuccessful,29
+508,Edinson Cavani,21,32,58.6,77.6,0.0,0.0,BlockedPass,Successful,29
+509,Fred,17,32,57.1,76.1,0.0,0.0,BallTouch,Successful,29
+510,Andros Townsend,14,31,41.0,17.8,55.0,31.0,Pass,Successful,30
+511,Demarai Gray,11,31,54.8,56.3,40.6,64.8,Pass,Successful,30
+512,Michael Keane,5,31,40.2,65.0,46.7,71.6,Pass,Successful,30
+513,Abdoulaye Doucouré,16,31,46.8,71.7,67.5,96.9,Pass,Successful,30
+514,Lucas Digne,12,31,67.5,96.9,72.8,88.1,Pass,Successful,30
+515,Anthony Gordon,24,31,94.7,82.6,93.0,57.9,Pass,Successful,30
+516,Salomón Rondón,33,31,92.5,60.6,0.0,0.0,MissedShots,Successful,30
+517,Andros Townsend,14,31,92.0,49.7,0.0,0.0,SavedShot,Successful,30
+518,Luke Shaw,23,32,7.4,49.6,0.0,0.0,Save,Successful,30
+519,Raphaël Varane,19,32,3.4,44.8,26.8,58.5,Clearance,Successful,30
+520,Ben Godfrey,22,31,72.8,41.3,0.0,0.0,Aerial,Successful,30
+521,Anthony Martial,9,32,27.2,58.7,0.0,0.0,Aerial,Unsuccessful,30
+522,Ben Godfrey,22,31,71.6,43.3,74.2,29.6,Pass,Successful,30
+523,Demarai Gray,11,31,69.6,19.4,74.7,7.0,Pass,Successful,30
+524,Allan,6,31,74.5,5.3,65.0,12.8,Pass,Successful,30
+525,Demarai Gray,11,31,65.0,12.8,53.5,13.7,Pass,Successful,30
+526,Yerry Mina,13,31,54.8,13.7,46.8,59.7,Pass,Successful,30
+527,Michael Keane,5,31,57.5,67.4,61.3,13.7,Pass,Successful,30
+528,Ben Godfrey,22,31,61.3,13.3,0.0,0.0,BallTouch,Unsuccessful,30
+529,Luke Shaw,23,32,33.9,100.0,30.8,69.3,Pass,Successful,31
+530,Scott McTominay,39,32,30.1,62.3,31.1,22.9,Pass,Successful,31
+531,Aaron Wan-Bissaka,29,32,35.1,21.4,31.8,41.5,Pass,Successful,31
+532,Victor Lindelöf,2,32,37.9,46.4,44.5,71.0,Pass,Successful,31
+533,Raphaël Varane,19,32,44.5,71.0,66.1,97.2,Pass,Successful,31
+534,Anthony Martial,9,32,66.4,96.6,65.9,95.6,Pass,Unsuccessful,31
+535,Andros Townsend,14,31,36.6,2.6,0.0,0.0,BlockedPass,Successful,31
+536,Luke Shaw,23,32,68.7,100.0,69.2,87.5,Pass,Successful,31
+537,Bruno Fernandes,18,32,69.2,87.5,60.5,56.1,Pass,Successful,31
+538,Scott McTominay,39,32,57.5,46.4,59.4,27.5,Pass,Successful,31
+539,Aaron Wan-Bissaka,29,32,69.2,41.3,75.0,44.2,Pass,Successful,31
+540,Edinson Cavani,21,32,75.0,44.2,82.2,30.4,Pass,Unsuccessful,31
+541,Lucas Digne,12,31,21.4,72.6,32.7,74.0,Pass,Unsuccessful,31
+542,Fred,17,32,72.7,33.2,79.5,5.3,Pass,Successful,31
+543,Mason Greenwood,11,32,79.5,5.3,0.0,0.0,BallTouch,Unsuccessful,31
+544,Lucas Digne,12,31,19.9,92.9,39.4,86.7,Pass,Successful,31
+545,Salomón Rondón,33,31,39.8,86.1,0.0,0.0,BallRecovery,Successful,31
+546,Salomón Rondón,33,31,39.8,86.1,32.6,77.3,Pass,Successful,31
+547,Abdoulaye Doucouré,16,31,32.7,77.1,37.5,96.5,Pass,Successful,31
+548,Anthony Gordon,24,31,53.7,90.5,64.9,97.1,Pass,Successful,31
+549,Demarai Gray,11,31,78.4,93.0,90.3,84.9,Pass,Successful,31
+550,Anthony Gordon,24,31,92.7,84.5,92.8,81.2,Pass,Unsuccessful,32
+551,Aaron Wan-Bissaka,29,32,7.1,14.6,0.0,0.0,BallTouch,Successful,32
+552,Fred,17,32,11.3,39.5,0.0,0.0,BallRecovery,Successful,32
+553,Fred,17,32,11.3,39.5,9.7,29.5,Pass,Successful,32
+554,Victor Lindelöf,2,32,9.7,29.5,24.8,24.7,Pass,Successful,32
+555,Bruno Fernandes,18,32,24.8,24.7,24.4,41.8,Pass,Successful,32
+556,Fred,17,32,24.4,41.8,23.2,34.0,Pass,Successful,32
+557,Scott McTominay,39,32,23.2,34.0,39.5,31.1,Pass,Successful,32
+558,Bruno Fernandes,18,32,39.5,31.1,56.3,11.0,Pass,Unsuccessful,32
+559,Lucas Digne,12,31,45.0,86.6,62.5,66.5,Pass,Successful,32
+560,Demarai Gray,11,31,62.7,65.3,0.0,0.0,BallRecovery,Successful,32
+561,Demarai Gray,11,31,63.8,61.3,0.0,0.0,TakeOn,Successful,32
+562,Fred,17,32,36.2,38.7,0.0,0.0,Challenge,Unsuccessful,32
+563,Demarai Gray,11,31,75.9,41.3,0.0,0.0,SavedShot,Successful,32
+564,David de Gea,1,32,3.6,49.7,0.0,0.0,Save,Successful,32
+565,Salomón Rondón,33,31,93.5,81.2,80.6,91.7,Pass,Successful,32
+566,Anthony Gordon,24,31,78.4,91.4,52.2,92.6,Pass,Successful,32
+567,Lucas Digne,12,31,48.3,90.5,36.6,53.9,Pass,Successful,32
+568,Michael Keane,5,31,36.4,53.4,43.8,26.2,Pass,Successful,32
+569,Yerry Mina,13,31,53.4,23.3,73.0,0.0,Pass,Unsuccessful,32
+570,Luke Shaw,23,32,26.6,100.0,30.4,90.0,Pass,Successful,32
+571,Fred,17,32,32.4,89.2,0.0,0.0,Foul,Successful,32
+572,Demarai Gray,11,31,67.6,10.8,0.0,0.0,Foul,Unsuccessful,32
+573,Luke Shaw,23,32,30.4,90.0,30.1,29.3,Pass,Successful,33
+574,Victor Lindelöf,2,32,30.1,29.3,40.6,9.8,Pass,Successful,33
+575,Aaron Wan-Bissaka,29,32,52.6,13.0,56.4,5.9,Pass,Successful,33
+576,Mason Greenwood,11,32,56.4,5.9,70.9,14.8,Pass,Successful,33
+577,Scott McTominay,39,32,70.9,14.8,70.0,3.5,Pass,Successful,33
+578,Aaron Wan-Bissaka,29,32,71.8,2.4,0.0,0.0,TakeOn,Unsuccessful,33
+579,Allan,6,31,28.2,97.6,0.0,0.0,Tackle,Successful,33
+580,Lucas Digne,12,31,31.0,97.1,0.0,0.0,BallRecovery,Successful,33
+581,Lucas Digne,12,31,33.5,97.2,51.2,95.1,Pass,Successful,33
+582,Anthony Gordon,24,31,63.0,91.6,0.0,0.0,Foul,Successful,33
+583,Mason Greenwood,11,32,37.0,8.4,0.0,0.0,Foul,Unsuccessful,33
+584,Mason Greenwood,11,32,0.0,0.0,0.0,0.0,Card,Successful,33
+585,Lucas Digne,12,31,67.2,93.8,86.7,59.3,Pass,Unsuccessful,34
+586,Scott McTominay,39,32,14.3,44.5,33.7,21.2,Clearance,Successful,34
+587,Mason Greenwood,11,32,33.8,25.5,0.0,0.0,Foul,Successful,34
+588,Demarai Gray,11,31,66.2,74.5,0.0,0.0,Foul,Unsuccessful,34
+589,Victor Lindelöf,2,32,34.1,32.6,41.0,68.6,Pass,Successful,35
+590,Raphaël Varane,19,32,55.8,79.1,61.1,66.8,Pass,Successful,35
+591,Bruno Fernandes,18,32,60.7,63.8,48.2,58.4,Pass,Successful,35
+592,Fred,17,32,47.9,58.1,62.1,93.3,Pass,Successful,35
+593,Luke Shaw,23,32,63.7,93.6,70.1,96.2,Pass,Successful,35
+594,Anthony Martial,9,32,70.1,96.2,66.4,85.5,Pass,Successful,35
+595,Edinson Cavani,21,32,66.4,85.5,74.2,83.4,Pass,Successful,35
+596,Luke Shaw,23,32,74.2,83.4,0.0,0.0,BallTouch,Unsuccessful,35
+597,Yerry Mina,13,31,22.2,23.5,0.0,0.0,BallRecovery,Successful,35
+598,Yerry Mina,13,31,22.2,23.5,50.5,12.2,Pass,Unsuccessful,35
+599,Raphaël Varane,19,32,49.8,87.9,47.2,96.6,Pass,Unsuccessful,35
+600,Salomón Rondón,33,31,55.0,4.9,46.6,13.7,Pass,Successful,35
+601,Abdoulaye Doucouré,16,31,46.5,13.9,55.4,4.4,Pass,Successful,35
+602,Andros Townsend,14,31,90.8,13.0,85.9,48.7,Pass,Successful,35
+603,Abdoulaye Doucouré,16,31,85.2,48.7,0.0,0.0,SavedShot,Successful,35
+604,Aaron Wan-Bissaka,29,32,8.8,47.2,0.0,0.0,Save,Successful,35
+605,Bruno Fernandes,18,32,22.0,79.4,0.0,0.0,BallRecovery,Successful,35
+606,Bruno Fernandes,18,32,22.9,81.3,14.1,78.2,Pass,Successful,35
+607,Raphaël Varane,19,32,14.1,78.2,28.1,73.5,Pass,Successful,35
+608,Edinson Cavani,21,32,28.1,73.5,23.6,71.4,Pass,Successful,35
+609,Fred,17,32,23.7,71.6,35.0,96.9,Pass,Successful,35
+610,Anthony Martial,9,32,53.6,92.4,67.4,97.7,Pass,Successful,35
+611,Bruno Fernandes,18,32,68.1,97.2,93.5,77.6,Pass,Unsuccessful,35
+612,Michael Keane,5,31,9.8,19.9,0.0,0.0,BallRecovery,Successful,35
+613,Michael Keane,5,31,5.2,16.1,33.7,0.0,Pass,Unsuccessful,35
+614,Luke Shaw,23,32,75.0,100.0,56.2,90.3,Pass,Successful,36
+615,Raphaël Varane,19,32,56.2,90.3,63.6,50.0,Pass,Successful,36
+616,Scott McTominay,39,32,64.2,43.1,69.6,18.2,Pass,Successful,36
+617,Aaron Wan-Bissaka,29,32,73.2,10.7,77.2,5.3,Pass,Successful,36
+618,Mason Greenwood,11,32,74.5,7.1,71.1,37.7,Pass,Successful,36
+619,Fred,17,32,72.8,40.1,79.0,42.4,Pass,Successful,36
+620,Edinson Cavani,21,32,79.0,42.4,75.2,46.1,Pass,Successful,36
+621,Fred,17,32,75.2,46.1,71.0,73.4,Pass,Successful,36
+622,Luke Shaw,23,32,71.4,77.9,81.8,87.6,Pass,Successful,36
+623,Anthony Martial,9,32,79.3,85.1,87.7,56.1,Pass,Unsuccessful,36
+624,Yerry Mina,13,31,10.8,40.1,15.2,48.8,Clearance,Successful,36
+625,Abdoulaye Doucouré,16,31,16.8,49.7,0.0,0.0,BallRecovery,Successful,36
+626,Abdoulaye Doucouré,16,31,18.0,50.3,27.1,86.3,Pass,Unsuccessful,36
+627,Scott McTominay,39,32,71.9,23.9,0.0,0.0,Interception,Successful,36
+628,Scott McTominay,39,32,72.8,21.5,0.0,0.0,BallRecovery,Successful,36
+629,Scott McTominay,39,32,73.3,21.2,85.1,23.2,Pass,Successful,36
+630,Mason Greenwood,11,32,92.2,18.7,88.9,7.7,Pass,Successful,36
+631,Scott McTominay,39,32,88.9,7.7,92.3,59.1,Pass,Successful,36
+632,Anthony Martial,9,32,91.8,55.5,0.0,0.0,Aerial,Successful,36
+633,Ben Godfrey,22,31,8.2,44.5,0.0,0.0,Aerial,Unsuccessful,36
+634,Anthony Martial,9,32,92.3,59.1,0.0,0.0,BallTouch,Unsuccessful,36
+635,Allan,6,31,12.4,56.9,28.9,80.4,Clearance,Successful,36
+636,Aaron Wan-Bissaka,29,32,75.2,27.2,90.0,0.0,Pass,Unsuccessful,36
+637,Lucas Digne,12,31,16.4,100.0,35.8,96.4,Pass,Unsuccessful,37
+638,Scott McTominay,39,32,64.9,5.2,0.0,0.0,Aerial,Successful,37
+639,Salomón Rondón,33,31,35.1,94.8,0.0,0.0,Aerial,Unsuccessful,37
+640,Scott McTominay,39,32,67.0,5.8,73.5,0.0,Pass,Unsuccessful,37
+641,Lucas Digne,12,31,30.4,100.0,58.4,89.7,Pass,Successful,37
+642,Salomón Rondón,33,31,56.6,89.1,0.0,0.0,Aerial,Successful,37
+643,Scott McTominay,39,32,43.4,10.9,0.0,0.0,Aerial,Unsuccessful,37
+644,Salomón Rondón,33,31,58.4,89.7,66.7,94.4,Pass,Unsuccessful,37
+645,Aaron Wan-Bissaka,29,32,37.6,6.5,51.3,18.8,Pass,Successful,37
+646,Bruno Fernandes,18,32,51.4,16.6,0.0,0.0,Aerial,Successful,37
+647,Abdoulaye Doucouré,16,31,48.6,83.4,0.0,0.0,Aerial,Unsuccessful,37
+648,Bruno Fernandes,18,32,51.3,18.8,52.6,29.5,Pass,Successful,37
+649,Edinson Cavani,21,32,52.6,29.5,0.0,0.0,BallTouch,Successful,37
+650,Fred,17,32,45.7,32.2,0.0,0.0,BallTouch,Successful,37
+651,Edinson Cavani,21,32,44.4,30.6,0.0,0.0,Dispossessed,Successful,37
+652,Abdoulaye Doucouré,16,31,55.6,69.4,0.0,0.0,Tackle,Successful,37
+653,Andros Townsend,14,31,61.7,66.6,0.0,0.0,BallRecovery,Successful,37
+654,Andros Townsend,14,31,70.4,64.2,72.2,40.7,Pass,Successful,37
+655,Demarai Gray,11,31,69.8,29.6,0.0,0.0,TakeOn,Successful,37
+656,Fred,17,32,30.2,70.4,0.0,0.0,Challenge,Unsuccessful,37
+657,Demarai Gray,11,31,63.2,38.1,0.0,0.0,Foul,Successful,37
+658,Bruno Fernandes,18,32,36.8,61.9,0.0,0.0,Foul,Unsuccessful,37
+659,Demarai Gray,11,31,64.7,35.9,90.8,57.8,Pass,Successful,38
+660,Yerry Mina,13,31,91.0,57.6,0.0,0.0,Aerial,Successful,38
+661,Raphaël Varane,19,32,9.0,42.4,0.0,0.0,Aerial,Unsuccessful,38
+662,Yerry Mina,13,31,90.8,57.8,0.0,0.0,MissedShots,Successful,38
+663,David de Gea,1,32,1.6,41.0,0.0,0.0,Claim,Successful,38
+664,David de Gea,1,32,15.1,43.4,72.4,80.7,Pass,Unsuccessful,38
+665,Demarai Gray,11,31,33.3,17.8,33.5,1.9,Clearance,Successful,38
+666,Mason Greenwood,11,32,74.8,96.6,63.4,76.3,Pass,Successful,38
+667,Anthony Martial,9,32,68.2,71.3,66.9,54.8,Pass,Successful,38
+668,Fred,17,32,67.1,53.9,67.8,31.3,Pass,Successful,38
+669,Scott McTominay,39,32,69.5,26.0,77.2,5.0,Pass,Successful,39
+670,Aaron Wan-Bissaka,29,32,72.7,8.3,70.1,28.4,Pass,Successful,39
+671,Fred,17,32,69.7,24.2,69.6,6.2,Pass,Successful,39
+672,Aaron Wan-Bissaka,29,32,70.0,3.4,0.0,0.0,Dispossessed,Successful,39
+673,Anthony Gordon,24,31,30.0,96.6,0.0,0.0,Tackle,Unsuccessful,39
+674,Aaron Wan-Bissaka,29,32,68.9,3.4,33.0,4.6,Pass,Successful,39
+675,Victor Lindelöf,2,32,34.9,16.9,37.7,60.8,Pass,Successful,39
+676,Raphaël Varane,19,32,40.6,63.2,49.1,93.2,Pass,Successful,39
+677,Bruno Fernandes,18,32,49.1,93.2,44.7,72.5,Pass,Successful,39
+678,Raphaël Varane,19,32,45.2,64.5,48.6,30.5,Pass,Successful,39
+679,Victor Lindelöf,2,32,74.8,21.8,80.8,27.7,Pass,Successful,39
+680,Scott McTominay,39,32,80.8,27.7,78.7,29.8,Pass,Successful,39
+681,Edinson Cavani,21,32,78.8,28.4,93.4,0.0,Pass,Unsuccessful,39
+682,Lucas Digne,12,31,13.1,100.0,34.5,95.3,Pass,Unsuccessful,40
+683,Aaron Wan-Bissaka,29,32,64.5,5.0,0.0,0.0,BallTouch,Successful,40
+684,Lucas Digne,12,31,27.0,100.0,54.3,93.5,Pass,Successful,40
+685,Salomón Rondón,33,31,53.6,96.2,0.0,0.0,Aerial,Successful,40
+686,Scott McTominay,39,32,46.4,3.8,0.0,0.0,Aerial,Unsuccessful,40
+687,Salomón Rondón,33,31,54.1,95.2,56.0,95.2,Pass,Unsuccessful,40
+688,Scott McTominay,39,32,46.4,5.3,0.0,0.0,BallTouch,Successful,40
+689,Lucas Digne,12,31,55.3,100.0,76.4,81.0,Pass,Unsuccessful,40
+690,Raphaël Varane,19,32,25.9,21.8,44.5,15.8,Pass,Unsuccessful,40
+691,Michael Keane,5,31,55.6,84.2,0.0,0.0,Aerial,Successful,40
+692,Edinson Cavani,21,32,44.4,15.8,0.0,0.0,Aerial,Unsuccessful,40
+693,Michael Keane,5,31,57.1,85.2,61.5,91.7,Pass,Successful,40
+694,Lucas Digne,12,31,65.7,96.6,72.7,85.8,Pass,Unsuccessful,40
+695,Scott McTominay,39,32,32.3,13.7,0.0,0.0,Interception,Successful,40
+696,Scott McTominay,39,32,32.8,9.4,0.0,0.0,BallRecovery,Successful,40
+697,Scott McTominay,39,32,32.8,9.4,36.9,3.5,Pass,Successful,40
+698,Mason Greenwood,11,32,40.6,10.1,42.8,11.0,Pass,Unsuccessful,40
+699,Lucas Digne,12,31,60.3,83.6,0.0,0.0,BlockedPass,Successful,40
+700,Fred,17,32,40.5,28.9,59.6,16.9,Pass,Successful,40
+701,Edinson Cavani,21,32,60.6,19.1,63.2,38.5,Pass,Successful,40
+702,Mason Greenwood,11,32,68.4,47.2,79.0,73.7,Pass,Successful,40
+703,Anthony Martial,9,32,78.0,74.4,0.0,0.0,TakeOn,Unsuccessful,41
+704,Ben Godfrey,22,31,22.0,25.6,0.0,0.0,Tackle,Successful,41
+705,Luke Shaw,23,32,72.6,77.3,91.7,47.3,Pass,Unsuccessful,41
+706,Michael Keane,5,31,8.7,53.3,20.1,70.1,Clearance,Successful,41
+707,Anthony Gordon,24,31,20.7,69.2,5.7,80.6,Pass,Successful,41
+708,Lucas Digne,12,31,6.0,81.0,10.5,100.0,Clearance,Successful,41
+709,Aaron Wan-Bissaka,29,32,79.5,0.0,76.3,12.1,Pass,Successful,41
+710,Bruno Fernandes,18,32,74.7,7.7,62.3,8.6,Pass,Successful,41
+711,Victor Lindelöf,2,32,59.8,16.1,54.7,50.9,Pass,Successful,41
+712,Raphaël Varane,19,32,61.9,55.5,67.7,24.8,Pass,Successful,41
+713,Bruno Fernandes,18,32,71.0,24.7,76.2,38.0,Pass,Successful,41
+714,Edinson Cavani,21,32,76.2,38.0,84.4,28.6,Pass,Unsuccessful,41
+715,Lucas Digne,12,31,14.5,72.9,0.0,0.0,BallRecovery,Successful,41
+716,Lucas Digne,12,31,14.5,72.9,35.7,100.0,Pass,Unsuccessful,41
+717,Aaron Wan-Bissaka,29,32,62.7,0.0,43.8,5.9,Pass,Successful,41
+718,Victor Lindelöf,2,32,43.0,25.9,45.6,60.2,Pass,Successful,41
+719,Raphaël Varane,19,32,46.3,64.7,63.0,97.8,Pass,Successful,41
+720,Anthony Martial,9,32,63.7,96.3,62.1,79.1,Pass,Successful,42
+721,Fred,17,32,62.1,79.1,53.3,81.9,Pass,Successful,42
+722,Raphaël Varane,19,32,49.0,70.4,59.0,14.6,Pass,Successful,42
+723,Aaron Wan-Bissaka,29,32,62.2,8.0,64.4,22.9,Pass,Successful,42
+724,Scott McTominay,39,32,65.7,12.7,70.5,20.6,Pass,Successful,42
+725,Mason Greenwood,11,32,67.4,28.9,74.5,52.7,Pass,Successful,42
+726,Bruno Fernandes,18,32,79.2,55.1,89.8,66.8,Pass,Successful,42
+727,Anthony Martial,9,32,89.8,66.8,0.0,0.0,Goal,Successful,42
+728,Demarai Gray,11,31,50.1,50.0,33.3,41.6,Pass,Successful,43
+729,Michael Keane,5,31,33.3,41.6,73.2,72.3,Pass,Successful,43
+730,Salomón Rondón,33,31,73.2,72.3,65.7,65.0,Pass,Successful,43
+731,Demarai Gray,11,31,65.9,61.8,71.0,51.8,Pass,Unsuccessful,43
+732,Luke Shaw,23,32,25.2,48.7,30.5,46.0,Pass,Successful,43
+733,Bruno Fernandes,18,32,30.5,46.0,26.3,62.6,Pass,Successful,43
+734,Luke Shaw,23,32,26.3,62.6,0.0,0.0,BallRecovery,Successful,43
+735,Luke Shaw,23,32,26.3,62.6,33.7,94.5,Pass,Unsuccessful,43
+736,Ben Godfrey,22,31,64.5,4.0,66.7,0.0,Pass,Unsuccessful,43
+737,Luke Shaw,23,32,33.3,100.0,35.6,83.9,Pass,Successful,44
+738,Bruno Fernandes,18,32,33.7,68.3,29.8,37.0,Pass,Successful,44
+739,Aaron Wan-Bissaka,29,32,47.4,23.2,61.9,2.9,Pass,Successful,44
+740,Mason Greenwood,11,32,59.6,7.0,47.8,17.5,Pass,Successful,44
+741,Scott McTominay,39,32,53.2,19.0,61.5,84.9,Pass,Successful,44
+742,Luke Shaw,23,32,61.5,84.9,72.6,84.8,Pass,Successful,44
+743,Anthony Martial,9,32,72.6,84.8,72.0,94.1,Pass,Successful,44
+744,Luke Shaw,23,32,72.0,94.1,68.7,84.6,Pass,Successful,44
+745,Anthony Martial,9,32,68.7,84.6,62.4,75.8,Pass,Successful,44
+746,Fred,17,32,62.4,75.8,63.2,76.2,Pass,Unsuccessful,44
+747,Abdoulaye Doucouré,16,31,39.3,24.1,0.0,0.0,BlockedPass,Successful,44
+748,Luke Shaw,23,32,70.4,100.0,72.8,89.7,Pass,Successful,44
+749,Edinson Cavani,21,32,72.8,89.7,70.6,98.0,Pass,Successful,44
+750,Luke Shaw,23,32,70.6,98.0,71.3,96.2,Pass,Unsuccessful,44
+751,Andros Townsend,14,31,36.7,5.8,0.0,0.0,BallTouch,Successful,44
+752,Fred,17,32,66.6,87.3,70.5,74.9,Pass,Unsuccessful,44
+753,Yerry Mina,13,31,32.6,30.7,0.0,0.0,BallRecovery,Successful,44
+754,Yerry Mina,13,31,32.6,30.7,26.8,51.0,Pass,Successful,44
+755,Michael Keane,5,31,27.8,53.9,69.4,72.9,Pass,Unsuccessful,44
+756,Victor Lindelöf,2,32,33.2,36.4,34.6,10.9,Pass,Successful,44
+757,Aaron Wan-Bissaka,29,32,34.6,10.7,0.0,0.0,BallRecovery,Successful,44
+758,Aaron Wan-Bissaka,29,32,34.7,10.6,36.6,27.7,Pass,Successful,44
+759,Scott McTominay,39,32,36.6,27.7,37.5,39.5,Pass,Successful,44
+760,Fred,17,32,37.5,39.5,47.5,25.7,Pass,Successful,44
+761,Aaron Wan-Bissaka,29,32,47.5,25.7,52.4,10.7,Pass,Successful,44
+762,Bruno Fernandes,18,32,61.4,4.1,68.7,3.5,Pass,Successful,45
+763,Mason Greenwood,11,32,68.4,3.7,74.2,13.7,Pass,Successful,45
+764,Aaron Wan-Bissaka,29,32,74.2,13.7,0.0,0.0,BallTouch,Successful,45
+765,Scott McTominay,39,32,80.8,17.1,0.0,0.0,Dispossessed,Successful,45
+766,Yerry Mina,13,31,19.2,82.9,0.0,0.0,Tackle,Unsuccessful,45
+767,Scott McTominay,39,32,79.7,15.4,0.0,0.0,BallTouch,Successful,45
+768,Yerry Mina,13,31,13.6,87.5,0.0,0.0,BallRecovery,Successful,45
+769,Yerry Mina,13,31,12.9,94.2,3.5,69.3,Pass,Successful,45
+770,Jordan Pickford,1,31,3.5,69.3,44.5,72.2,Pass,Unsuccessful,45
+771,Fred,17,32,56.7,32.2,63.0,38.5,Pass,Unsuccessful,45
+772,Andros Townsend,14,31,36.7,60.3,46.4,68.4,Pass,Unsuccessful,45
+773,Fred,17,32,56.1,33.7,57.2,49.4,Pass,Successful,45
+774,Luke Shaw,23,32,57.2,49.4,0.0,0.0,BallRecovery,Successful,45
+775,Luke Shaw,23,32,72.2,75.0,79.1,87.2,Pass,Successful,45
+776,Anthony Martial,9,32,81.9,86.7,81.6,72.6,Pass,Successful,45
+777,Edinson Cavani,21,32,81.6,72.6,77.4,74.1,Pass,Successful,45
+778,Anthony Martial,9,32,76.4,67.2,0.0,0.0,SavedShot,Successful,45
+779,Jordan Pickford,1,31,3.4,50.1,0.0,0.0,Save,Successful,45
+780,Jordan Pickford,1,31,3.4,50.1,0.0,0.0,KeeperPickup,Successful,45
+781,Jordan Pickford,1,31,3.4,50.1,22.0,86.0,Pass,Successful,45
+782,Lucas Digne,12,31,29.7,93.5,93.1,71.0,Pass,Unsuccessful,45
+783,David de Gea,1,32,2.2,30.4,0.0,0.0,BallRecovery,Successful,45
+784,David de Gea,1,32,4.9,48.5,16.5,74.3,Pass,Successful,45
+785,Raphaël Varane,19,32,30.4,76.2,26.4,64.4,Pass,Successful,45
+786,Fred,17,32,27.3,63.0,38.8,52.8,Pass,Successful,45
+787,Bruno Fernandes,18,32,37.2,51.9,30.8,43.6,Pass,Successful,46
+788,Victor Lindelöf,2,32,30.8,43.6,36.7,26.2,Pass,Successful,46
+789,Scott McTominay,39,32,42.3,29.6,39.2,58.5,Pass,Successful,46
+790,Fred,17,32,38.3,62.6,63.2,90.3,Pass,Successful,46
+791,Anthony Martial,9,32,63.2,90.3,45.3,79.7,Pass,Successful,46
+792,Luke Shaw,23,32,45.3,79.1,36.4,41.5,Pass,Successful,46
+793,Victor Lindelöf,2,32,39.0,33.7,55.8,5.3,Pass,Successful,46
+794,Aaron Wan-Bissaka,29,32,55.8,5.3,56.7,19.0,Pass,Successful,46
+795,Bruno Fernandes,18,32,40.4,9.1,34.0,41.9,Pass,Successful,46
+796,Victor Lindelöf,2,32,35.4,48.7,36.7,75.8,Pass,Successful,46
+797,Raphaël Varane,19,32,36.7,75.8,47.1,83.4,Pass,Successful,46
+798,Luke Shaw,23,32,47.1,83.4,64.7,79.2,Pass,Successful,46
+799,Edinson Cavani,21,32,64.7,79.2,57.5,75.5,Pass,Successful,46
+800,Luke Shaw,23,32,57.5,75.5,64.5,59.1,Pass,Successful,46
+801,Mason Greenwood,11,32,59.9,65.8,0.0,0.0,Foul,Successful,46
+802,Allan,6,31,40.1,34.2,0.0,0.0,Foul,Unsuccessful,46
+803,Fred,17,32,53.6,59.0,54.9,45.8,Pass,Successful,46
+804,Scott McTominay,39,32,66.1,37.7,71.6,14.2,Pass,Successful,46
+805,Bruno Fernandes,18,32,75.9,9.5,77.2,15.1,Pass,Unsuccessful,46
+806,Anthony Gordon,24,31,26.1,87.8,0.0,0.0,BallTouch,Successful,46
+807,Jordan Pickford,1,31,4.7,51.6,0.0,0.0,Claim,Successful,46
+808,Jordan Pickford,1,31,14.3,59.6,19.5,37.1,Pass,Successful,46
+809,Bruno Fernandes,18,32,49.9,50.0,30.9,47.3,Pass,Successful,45
+810,Victor Lindelöf,2,32,34.0,48.8,69.4,87.2,Pass,Unsuccessful,45
+811,Ben Godfrey,22,31,29.0,13.6,0.0,0.0,Aerial,Successful,45
+812,Anthony Martial,9,32,71.0,86.4,0.0,0.0,Aerial,Unsuccessful,45
+813,Ben Godfrey,22,31,24.2,16.0,25.1,0.0,Clearance,Successful,45
+814,Luke Shaw,23,32,77.0,100.0,79.1,86.3,Pass,Unsuccessful,45
+815,Andros Townsend,14,31,19.4,11.8,0.0,0.0,Interception,Successful,45
+816,Luke Shaw,23,32,69.4,100.0,70.5,89.0,Pass,Successful,45
+817,Bruno Fernandes,18,32,70.5,89.0,68.8,95.1,Pass,Successful,45
+818,Luke Shaw,23,32,70.0,94.4,0.0,0.0,Dispossessed,Successful,45
+819,Abdoulaye Doucouré,16,31,30.0,5.6,0.0,0.0,Tackle,Unsuccessful,45
+820,Luke Shaw,23,32,68.3,95.0,62.4,96.0,Pass,Successful,45
+821,Fred,17,32,62.4,96.0,85.8,96.8,Pass,Unsuccessful,45
+822,Ben Godfrey,22,31,15.6,2.9,25.8,0.0,Pass,Unsuccessful,45
+823,Luke Shaw,23,32,69.2,100.0,70.2,90.1,Pass,Successful,46
+824,Fred,17,32,67.8,82.2,52.5,55.4,Pass,Successful,46
+825,Scott McTominay,39,32,69.8,17.6,76.9,16.4,Pass,Unsuccessful,46
+826,Anthony Gordon,24,31,23.6,88.5,0.0,0.0,BallRecovery,Successful,46
+827,Anthony Gordon,24,31,25.2,88.1,26.5,76.1,Pass,Successful,46
+828,Allan,6,31,26.5,75.2,73.3,76.5,Pass,Unsuccessful,46
+829,David de Gea,1,32,21.4,22.6,0.0,0.0,BallRecovery,Successful,46
+830,David de Gea,1,32,21.4,22.6,28.7,24.8,Pass,Successful,46
+831,Victor Lindelöf,2,32,29.8,27.4,40.1,40.7,Pass,Successful,46
+832,Fred,17,32,39.2,43.6,33.9,63.8,Pass,Successful,46
+833,Raphaël Varane,19,32,38.8,65.7,40.2,37.7,Pass,Successful,46
+834,Victor Lindelöf,2,32,45.1,42.5,44.8,71.7,Pass,Successful,46
+835,Raphaël Varane,19,32,48.1,75.6,60.8,95.9,Pass,Successful,46
+836,Anthony Martial,9,32,60.8,95.9,40.9,92.7,Pass,Successful,46
+837,Luke Shaw,23,32,40.9,92.7,43.4,80.1,Pass,Successful,46
+838,Fred,17,32,43.4,80.1,51.3,96.8,Pass,Successful,46
+839,Luke Shaw,23,32,71.2,83.3,73.8,57.6,Pass,Successful,46
+840,Mason Greenwood,11,32,73.8,57.6,69.3,57.0,Pass,Unsuccessful,46
+841,Anthony Gordon,24,31,30.4,34.4,0.0,0.0,Interception,Successful,46
+842,Anthony Gordon,24,31,31.1,35.2,0.0,0.0,BallRecovery,Successful,46
+843,Anthony Gordon,24,31,45.1,23.6,0.0,0.0,TakeOn,Unsuccessful,46
+844,Fred,17,32,54.9,76.4,0.0,0.0,Tackle,Unsuccessful,46
+845,Anthony Gordon,24,31,44.5,26.5,0.0,0.0,BallTouch,Successful,47
+846,Andros Townsend,14,31,44.4,27.8,0.0,0.0,Challenge,Unsuccessful,47
+847,Fred,17,32,55.6,72.2,0.0,0.0,TakeOn,Successful,47
+848,Fred,17,32,56.5,77.9,0.0,0.0,BallRecovery,Successful,47
+849,Fred,17,32,59.3,71.6,61.8,45.1,Pass,Successful,47
+850,Mason Greenwood,11,32,62.2,41.3,66.0,5.5,Pass,Successful,47
+851,Aaron Wan-Bissaka,29,32,65.7,8.5,69.1,19.6,Pass,Successful,47
+852,Edinson Cavani,21,32,69.1,19.6,59.1,22.4,Pass,Successful,47
+853,Mason Greenwood,11,32,59.1,22.4,58.2,31.3,Pass,Successful,47
+854,Scott McTominay,39,32,58.2,31.3,64.5,65.4,Pass,Successful,47
+855,Fred,17,32,64.5,66.9,80.6,87.2,Pass,Successful,47
+856,Anthony Martial,9,32,87.7,87.6,80.9,71.9,Pass,Successful,47
+857,Bruno Fernandes,18,32,80.9,71.9,89.9,76.4,Pass,Unsuccessful,47
+858,Ben Godfrey,22,31,7.1,23.9,0.0,4.1,Clearance,Successful,47
+859,Ben Godfrey,22,31,4.4,13.8,0.0,0.0,CornerAwarded,Unsuccessful,47
+860,Bruno Fernandes,18,32,95.6,86.2,0.0,0.0,CornerAwarded,Successful,47
+861,Luke Shaw,23,32,99.5,99.5,78.0,27.2,Pass,Successful,47
+862,Mason Greenwood,11,32,76.5,32.0,0.0,0.0,SavedShot,Successful,48
+863,Jordan Pickford,1,31,2.4,51.6,0.0,0.0,Save,Successful,48
+864,Jordan Pickford,1,31,2.4,51.6,0.0,0.0,KeeperPickup,Successful,48
+865,Jordan Pickford,1,31,7.1,50.6,66.6,33.2,Pass,Unsuccessful,48
+866,Aaron Wan-Bissaka,29,32,35.0,75.3,0.0,0.0,BallRecovery,Successful,48
+867,Aaron Wan-Bissaka,29,32,35.7,80.6,0.0,0.0,BallTouch,Successful,48
+868,Luke Shaw,23,32,35.7,75.9,28.6,56.6,Pass,Successful,48
+869,Victor Lindelöf,2,32,29.9,50.9,43.7,24.5,Pass,Successful,48
+870,Bruno Fernandes,18,32,48.7,21.8,48.4,30.5,Pass,Successful,48
+871,Scott McTominay,39,32,53.1,45.4,56.3,23.0,Pass,Successful,48
+872,Bruno Fernandes,18,32,57.2,20.2,62.9,4.3,Pass,Successful,48
+873,Mason Greenwood,11,32,62.9,4.3,57.4,16.9,Pass,Successful,48
+874,Bruno Fernandes,18,32,57.4,17.2,65.3,27.4,Pass,Successful,48
+875,Edinson Cavani,21,32,65.3,27.4,34.8,0.0,Pass,Unsuccessful,48
+876,Lucas Digne,12,31,62.1,100.0,44.9,57.9,Pass,Successful,48
+877,Yerry Mina,13,31,44.4,49.9,48.5,14.0,Pass,Successful,49
+878,Ben Godfrey,22,31,48.5,13.9,65.9,8.3,Pass,Successful,49
+879,Andros Townsend,14,31,65.8,7.6,0.0,0.0,TakeOn,Successful,49
+880,Anthony Martial,9,32,34.2,92.4,0.0,0.0,Challenge,Unsuccessful,49
+881,Andros Townsend,14,31,55.9,12.8,51.9,29.3,Pass,Successful,49
+882,Abdoulaye Doucouré,16,31,52.1,29.6,52.8,32.5,Pass,Unsuccessful,49
+883,Bruno Fernandes,18,32,47.2,68.7,0.0,0.0,BlockedPass,Successful,49
+884,Scott McTominay,39,32,44.9,52.8,0.0,0.0,BallRecovery,Successful,49
+885,Scott McTominay,39,32,44.9,52.8,46.7,61.1,Pass,Successful,49
+886,Fred,17,32,47.6,54.0,67.7,16.4,Pass,Unsuccessful,49
+887,Lucas Digne,12,31,31.4,92.1,0.0,0.0,BallRecovery,Successful,49
+888,Lucas Digne,12,31,34.9,94.1,72.5,97.7,Pass,Unsuccessful,49
+889,Victor Lindelöf,2,32,21.5,2.5,0.0,0.0,BallRecovery,Successful,49
+890,Victor Lindelöf,2,32,21.4,3.1,4.0,41.9,Pass,Successful,49
+891,David de Gea,1,32,13.3,51.9,16.0,69.8,Pass,Successful,49
+892,Raphaël Varane,19,32,26.7,74.1,25.9,49.1,Pass,Successful,49
+893,Fred,17,32,26.3,48.2,36.3,24.2,Pass,Successful,49
+894,Scott McTominay,39,32,39.3,22.6,52.9,23.2,Pass,Successful,49
+895,Mason Greenwood,11,32,52.9,23.2,34.6,7.6,Pass,Successful,49
+896,Scott McTominay,39,32,32.7,8.0,42.7,10.1,Pass,Successful,49
+897,Mason Greenwood,11,32,38.0,8.5,27.0,48.1,Pass,Successful,49
+898,Victor Lindelöf,2,32,27.0,48.1,30.6,77.3,Pass,Successful,49
+899,Raphaël Varane,19,32,41.4,77.9,48.5,58.4,Pass,Successful,49
+900,Fred,17,32,49.8,58.4,61.1,56.9,Pass,Successful,50
+901,Bruno Fernandes,18,32,65.5,61.1,88.2,94.4,Pass,Successful,50
+902,Edinson Cavani,21,32,88.3,94.5,84.0,94.8,Pass,Successful,50
+903,Anthony Martial,9,32,85.9,90.0,77.4,84.3,Pass,Successful,50
+904,Bruno Fernandes,18,32,77.4,84.3,85.7,73.1,Pass,Successful,50
+905,Anthony Martial,9,32,84.3,69.9,78.5,61.7,Pass,Unsuccessful,50
+906,Abdoulaye Doucouré,16,31,22.1,33.1,0.0,0.0,BallRecovery,Successful,50
+907,Abdoulaye Doucouré,16,31,22.4,34.7,13.1,33.8,Pass,Successful,50
+908,Ben Godfrey,22,31,13.1,33.8,36.9,43.3,Pass,Successful,50
+909,Salomón Rondón,33,31,36.9,43.3,36.6,29.3,Pass,Unsuccessful,50
+910,Luke Shaw,23,32,62.9,86.6,0.0,0.0,BallRecovery,Successful,50
+911,Luke Shaw,23,32,65.7,96.6,64.6,85.4,Pass,Successful,50
+912,Anthony Martial,9,32,64.6,85.4,46.0,87.5,Pass,Successful,50
+913,Raphaël Varane,19,32,46.3,75.5,61.1,51.0,Pass,Successful,50
+914,Scott McTominay,39,32,61.1,51.0,55.3,69.8,Pass,Successful,50
+915,Fred,17,32,55.3,69.8,64.7,96.5,Pass,Successful,50
+916,Luke Shaw,23,32,63.8,92.6,47.3,76.4,Pass,Successful,50
+917,Raphaël Varane,19,32,46.9,69.2,53.3,42.2,Pass,Successful,50
+918,Scott McTominay,39,32,53.5,40.1,65.9,26.0,Pass,Successful,50
+919,Mason Greenwood,11,32,68.8,22.0,71.9,4.1,Pass,Successful,50
+920,Aaron Wan-Bissaka,29,32,71.5,5.3,0.0,0.0,TakeOn,Unsuccessful,50
+921,Lucas Digne,12,31,28.5,94.7,0.0,0.0,Tackle,Unsuccessful,50
+922,Aaron Wan-Bissaka,29,32,72.7,2.8,0.0,0.0,BallTouch,Unsuccessful,50
+923,Lucas Digne,12,31,29.4,100.0,44.4,95.3,Pass,Unsuccessful,51
+924,Aaron Wan-Bissaka,29,32,54.0,6.1,0.0,0.0,BallTouch,Successful,51
+925,Fred,17,32,55.7,14.0,0.0,0.0,BallRecovery,Successful,51
+926,Fred,17,32,55.8,14.2,62.1,10.7,Pass,Successful,51
+927,Bruno Fernandes,18,32,62.1,10.7,56.1,23.3,Pass,Successful,51
+928,Fred,17,32,56.1,23.3,63.8,32.9,Pass,Successful,51
+929,Edinson Cavani,21,32,62.9,36.4,57.1,68.4,Pass,Successful,51
+930,Luke Shaw,23,32,57.1,68.4,67.4,71.0,Pass,Successful,51
+931,Anthony Martial,9,32,67.4,71.0,56.3,95.3,Pass,Successful,51
+932,Luke Shaw,23,32,56.3,95.3,54.5,78.2,Pass,Successful,51
+933,Anthony Martial,9,32,53.2,77.4,46.4,45.8,Pass,Successful,51
+934,Victor Lindelöf,2,32,46.6,44.5,54.0,32.3,Pass,Successful,51
+935,Scott McTominay,39,32,57.3,29.2,65.5,48.8,Pass,Successful,51
+936,Fred,17,32,65.5,48.8,72.7,57.2,Pass,Successful,51
+937,Bruno Fernandes,18,32,72.7,57.2,78.0,78.6,Pass,Unsuccessful,51
+938,Ben Godfrey,22,31,23.3,13.0,0.0,0.0,BallRecovery,Successful,51
+939,Ben Godfrey,22,31,23.0,5.9,82.7,12.4,Pass,Unsuccessful,51
+940,Raphaël Varane,19,32,8.6,84.0,0.0,0.0,BallRecovery,Successful,51
+941,Raphaël Varane,19,32,8.3,83.9,4.7,66.6,Pass,Successful,51
+942,David de Gea,1,32,4.7,66.6,25.0,78.3,Pass,Successful,51
+943,Fred,17,32,28.5,75.0,28.3,43.1,Pass,Successful,51
+944,Scott McTominay,39,32,29.5,40.0,35.9,21.5,Pass,Successful,51
+945,Aaron Wan-Bissaka,29,32,37.5,18.1,49.1,4.4,Pass,Successful,51
+946,Mason Greenwood,11,32,54.0,13.0,47.8,24.5,Pass,Successful,52
+947,Scott McTominay,39,32,53.3,31.1,71.1,33.1,Pass,Unsuccessful,52
+948,Michael Keane,5,31,24.4,66.9,0.0,0.0,BallRecovery,Successful,52
+949,Michael Keane,5,31,26.1,64.2,34.0,57.9,Pass,Successful,52
+950,Abdoulaye Doucouré,16,31,36.4,44.6,58.1,6.1,Pass,Successful,52
+951,Demarai Gray,11,31,57.2,6.7,0.0,0.0,TakeOn,Unsuccessful,52
+952,Bruno Fernandes,18,32,42.8,93.3,0.0,0.0,Tackle,Unsuccessful,52
+953,Demarai Gray,11,31,57.1,6.7,0.0,0.0,BallTouch,Successful,52
+954,Luke Shaw,23,32,40.1,100.0,29.7,92.4,Pass,Successful,52
+955,Raphaël Varane,19,32,25.6,91.7,31.4,39.2,Pass,Successful,52
+956,Scott McTominay,39,32,40.1,30.8,36.9,47.3,Pass,Successful,52
+957,Victor Lindelöf,2,32,43.0,56.1,45.3,91.7,Pass,Successful,52
+958,Luke Shaw,23,32,45.3,91.7,58.4,97.1,Pass,Successful,52
+959,Anthony Martial,9,32,58.4,97.1,58.4,82.7,Pass,Successful,52
+960,Luke Shaw,23,32,61.2,82.4,70.6,96.6,Pass,Successful,52
+961,Anthony Martial,9,32,70.9,96.6,74.9,90.2,Pass,Unsuccessful,52
+962,Yerry Mina,13,31,23.8,13.4,37.1,8.5,Pass,Successful,52
+963,Andros Townsend,14,31,37.7,7.4,0.0,0.0,BallRecovery,Successful,52
+964,Andros Townsend,14,31,39.1,5.8,0.0,0.0,Foul,Successful,52
+965,Luke Shaw,23,32,60.9,94.2,0.0,0.0,Foul,Unsuccessful,52
+966,Ben Godfrey,22,31,38.0,4.3,43.5,33.4,Pass,Successful,53
+967,Allan,6,31,43.5,33.4,35.2,57.9,Pass,Successful,53
+968,Michael Keane,5,31,37.3,68.6,54.8,95.3,Pass,Successful,53
+969,Lucas Digne,12,31,47.5,92.4,54.8,81.3,Pass,Successful,53
+970,Allan,6,31,51.9,84.3,51.7,85.9,Pass,Unsuccessful,53
+971,Edinson Cavani,21,32,47.5,15.5,0.0,0.0,BlockedPass,Successful,53
+972,Lucas Digne,12,31,53.2,100.0,55.5,71.1,Pass,Successful,53
+973,Demarai Gray,11,31,44.4,67.4,45.0,34.6,Pass,Successful,53
+974,Ben Godfrey,22,31,44.2,25.3,59.9,5.5,Pass,Successful,53
+975,Andros Townsend,14,31,59.6,16.8,0.0,0.0,TakeOn,Successful,53
+976,Luke Shaw,23,32,40.4,83.2,0.0,0.0,Challenge,Unsuccessful,53
+977,Andros Townsend,14,31,66.0,11.5,85.7,31.6,Pass,Unsuccessful,53
+978,Victor Lindelöf,2,32,12.6,65.4,12.7,81.6,Clearance,Successful,53
+979,Ben Godfrey,22,31,87.4,16.9,0.0,0.0,TakeOn,Unsuccessful,53
+980,Luke Shaw,23,32,12.6,83.1,0.0,0.0,Tackle,Successful,53
+981,Fred,17,32,0.9,84.8,46.5,96.3,Pass,Unsuccessful,54
+982,Andros Townsend,14,31,44.9,5.0,38.1,7.6,Pass,Successful,55
+983,Ben Godfrey,22,31,38.1,7.6,44.0,3.1,Pass,Successful,55
+984,Andros Townsend,14,31,44.0,3.1,38.5,7.9,Pass,Successful,55
+985,Ben Godfrey,22,31,38.5,7.9,43.2,27.1,Pass,Successful,55
+986,Abdoulaye Doucouré,16,31,43.0,29.5,35.5,59.0,Pass,Successful,55
+987,Michael Keane,5,31,35.5,59.0,60.6,90.8,Pass,Successful,55
+988,Lucas Digne,12,31,60.6,90.8,87.7,96.0,Pass,Successful,55
+989,Anthony Gordon,24,31,87.6,95.6,92.2,83.1,Pass,Unsuccessful,55
+990,Victor Lindelöf,2,32,9.7,8.8,0.0,0.0,BallTouch,Successful,55
+991,Lucas Digne,12,31,96.3,74.3,95.5,46.6,Pass,Unsuccessful,55
+992,Luke Shaw,23,32,7.1,54.3,10.3,43.9,Clearance,Successful,55
+993,Scott McTominay,39,32,10.3,44.0,18.8,53.9,Clearance,Successful,55
+994,Bruno Fernandes,18,32,19.8,55.7,15.5,31.6,Pass,Unsuccessful,55
+995,Anthony Gordon,24,31,79.3,64.7,75.5,69.6,Pass,Successful,55
+996,Demarai Gray,11,31,89.8,74.6,86.3,83.9,Pass,Successful,55
+997,Lucas Digne,12,31,89.4,83.9,92.1,56.9,Pass,Successful,55
+998,Andros Townsend,14,31,91.3,59.6,0.0,0.0,Aerial,Successful,55
+999,Victor Lindelöf,2,32,8.7,40.4,0.0,0.0,Aerial,Unsuccessful,55
+1000,Andros Townsend,14,31,92.3,56.7,0.0,0.0,MissedShots,Successful,55
+1001,Anthony Martial,9,32,0.0,0.0,0.0,0.0,SubstitutionOff,Successful,56
+1002,Jadon Sancho,25,32,0.0,0.0,0.0,0.0,SubstitutionOn,Successful,56
+1003,Edinson Cavani,21,32,0.0,0.0,0.0,0.0,SubstitutionOff,Successful,56
+1004,Cristiano Ronaldo,7,32,0.0,0.0,0.0,0.0,SubstitutionOn,Successful,56
+1005,David de Gea,1,32,4.8,54.8,12.7,42.1,Pass,Successful,56
+1006,Victor Lindelöf,2,32,21.9,42.7,30.6,15.8,Pass,Successful,57
+1007,Scott McTominay,39,32,34.9,11.2,30.1,37.3,Pass,Successful,57
+1008,Victor Lindelöf,2,32,32.2,42.8,29.9,67.8,Pass,Successful,57
+1009,Raphaël Varane,19,32,31.6,70.1,36.2,88.1,Pass,Successful,57
+1010,Luke Shaw,23,32,36.6,89.3,63.8,89.9,Pass,Successful,57
+1011,Bruno Fernandes,18,32,62.8,95.9,89.2,80.7,Pass,Unsuccessful,57
+1012,Michael Keane,5,31,11.2,23.8,10.1,0.0,Clearance,Successful,57
+1013,Luke Shaw,23,32,86.7,100.0,84.3,88.2,Pass,Successful,57
+1014,Bruno Fernandes,18,32,84.3,88.2,86.9,94.2,Pass,Unsuccessful,57
+1015,Andros Townsend,14,31,11.7,6.8,0.0,0.0,Interception,Successful,57
+1016,Bruno Fernandes,18,32,74.9,100.0,49.0,77.1,Pass,Successful,57
+1017,Victor Lindelöf,2,32,48.2,61.2,51.9,41.6,Pass,Successful,57
+1018,Scott McTominay,39,32,53.3,34.1,61.3,13.1,Pass,Successful,57
+1019,Cristiano Ronaldo,7,32,66.6,12.2,71.1,25.1,Pass,Successful,57
+1020,Mason Greenwood,11,32,71.1,25.1,70.5,27.4,Pass,Unsuccessful,57
+1021,Abdoulaye Doucouré,16,31,29.4,67.4,0.0,0.0,BlockedPass,Successful,57
+1022,Mason Greenwood,11,32,69.9,18.6,0.0,0.0,BallTouch,Successful,57
+1023,Abdoulaye Doucouré,16,31,31.6,68.9,0.0,0.0,BallRecovery,Successful,57
+1024,Abdoulaye Doucouré,16,31,34.0,85.2,43.5,95.9,Pass,Successful,58
+1025,Anthony Gordon,24,31,43.5,95.9,61.4,96.6,Pass,Successful,58
+1026,Demarai Gray,11,31,87.8,64.3,0.0,0.0,MissedShots,Successful,58
+1027,David de Gea,1,32,4.3,60.6,34.3,77.5,Pass,Successful,58
+1028,Fred,17,32,58.1,83.7,77.3,85.8,Pass,Successful,58
+1029,Jadon Sancho,25,32,76.6,78.0,76.2,55.8,Pass,Successful,58
+1030,Mason Greenwood,11,32,76.2,55.8,75.8,63.0,Pass,Successful,58
+1031,Bruno Fernandes,18,32,75.8,63.0,98.2,15.7,Pass,Unsuccessful,58
+1032,Lucas Digne,12,31,1.6,83.6,0.0,83.9,Clearance,Successful,58
+1033,Lucas Digne,12,31,0.6,84.1,0.0,0.0,CornerAwarded,Unsuccessful,58
+1034,Bruno Fernandes,18,32,99.4,15.9,0.0,0.0,CornerAwarded,Successful,58
+1035,Bruno Fernandes,18,32,99.5,0.5,73.5,97.1,Pass,Successful,59
+1036,Jadon Sancho,25,32,73.5,97.1,68.2,81.3,Pass,Successful,59
+1037,Luke Shaw,23,32,68.2,81.3,74.0,65.9,Pass,Successful,59
+1038,Scott McTominay,39,32,69.2,65.1,69.5,19.3,Pass,Successful,59
+1039,Allan,6,31,23.2,65.2,0.0,0.0,Challenge,Unsuccessful,59
+1040,Mason Greenwood,11,32,76.8,34.8,0.0,0.0,TakeOn,Successful,59
+1041,Mason Greenwood,11,32,80.0,31.8,0.0,0.0,TakeOn,Unsuccessful,59
+1042,Michael Keane,5,31,20.0,68.2,0.0,0.0,Tackle,Successful,59
+1043,Allan,6,31,20.4,74.0,0.0,0.0,BallRecovery,Successful,59
+1044,Allan,6,31,26.0,70.2,0.0,0.0,Foul,Successful,59
+1045,Bruno Fernandes,18,32,74.0,29.8,0.0,0.0,Foul,Unsuccessful,59
+1046,Jordan Pickford,1,31,25.8,59.9,63.8,72.2,Pass,Unsuccessful,60
+1047,Scott McTominay,39,32,31.1,26.8,0.0,0.0,Aerial,Successful,60
+1048,Salomón Rondón,33,31,68.9,73.2,0.0,0.0,Aerial,Unsuccessful,60
+1049,Scott McTominay,39,32,25.9,25.4,32.3,20.7,Pass,Successful,60
+1050,Mason Greenwood,11,32,33.1,23.8,30.1,33.1,Pass,Successful,60
+1051,Fred,17,32,30.1,33.1,0.0,0.0,BallRecovery,Successful,60
+1052,Fred,17,32,30.5,34.1,41.8,72.2,Pass,Successful,60
+1053,Jadon Sancho,25,32,45.5,73.1,65.0,81.2,Pass,Successful,60
+1054,Cristiano Ronaldo,7,32,78.9,71.7,79.3,58.4,Pass,Successful,60
+1055,Michael Keane,5,31,14.4,45.7,0.0,0.0,Challenge,Unsuccessful,60
+1056,Jadon Sancho,25,32,85.6,54.3,0.0,0.0,TakeOn,Successful,60
+1057,Jadon Sancho,25,32,84.4,43.7,88.9,31.3,Pass,Successful,60
+1058,Bruno Fernandes,18,32,90.0,31.7,89.2,83.7,Pass,Unsuccessful,60
+1059,Andros Townsend,14,31,9.7,15.1,0.0,0.0,BallRecovery,Successful,60
+1060,Andros Townsend,14,31,21.8,10.0,32.3,26.9,Pass,Successful,60
+1061,Abdoulaye Doucouré,16,31,44.0,54.3,40.6,88.7,Pass,Successful,60
+1062,Anthony Gordon,24,31,40.0,85.4,46.7,73.4,Pass,Successful,60
+1063,Abdoulaye Doucouré,16,31,46.3,72.9,41.2,66.9,Pass,Successful,60
+1064,Allan,6,31,56.1,47.3,68.6,36.4,Pass,Successful,60
+1065,Demarai Gray,11,31,68.6,36.4,63.1,41.6,Pass,Successful,60
+1066,Allan,6,31,63.1,43.3,56.0,85.5,Pass,Successful,60
+1067,Lucas Digne,12,31,56.6,92.1,42.1,68.0,Pass,Successful,61
+1068,Michael Keane,5,31,39.0,62.6,43.6,69.2,Pass,Successful,61
+1069,Abdoulaye Doucouré,16,31,43.8,69.0,57.4,94.7,Pass,Successful,61
+1070,Lucas Digne,12,31,65.8,95.1,73.2,82.4,Pass,Successful,61
+1071,Salomón Rondón,33,31,67.1,88.4,60.9,93.5,Pass,Successful,61
+1072,Abdoulaye Doucouré,16,31,65.8,94.5,73.0,86.3,Pass,Successful,61
+1073,Anthony Gordon,24,31,73.0,86.3,90.3,86.6,Pass,Successful,61
+1074,Abdoulaye Doucouré,16,31,92.1,86.3,92.2,77.7,Pass,Unsuccessful,61
+1075,Victor Lindelöf,2,32,2.5,20.2,0.0,0.0,Interception,Successful,61
+1076,Abdoulaye Doucouré,16,31,95.1,73.3,0.0,0.0,Aerial,Successful,61
+1077,Victor Lindelöf,2,32,4.9,26.7,0.0,0.0,Aerial,Unsuccessful,61
+1078,Abdoulaye Doucouré,16,31,94.3,72.3,95.2,71.9,Pass,Unsuccessful,61
+1079,Victor Lindelöf,2,32,3.8,33.2,0.0,0.0,BallTouch,Successful,61
+1080,Demarai Gray,11,31,92.6,66.6,0.0,0.0,BallTouch,Unsuccessful,61
+1081,Aaron Wan-Bissaka,29,32,8.0,33.2,32.0,28.7,Clearance,Successful,61
+1082,Bruno Fernandes,18,32,31.9,31.4,0.0,0.0,BallRecovery,Successful,61
+1083,Bruno Fernandes,18,32,31.2,45.1,36.9,82.1,Pass,Successful,61
+1084,Jadon Sancho,25,32,46.3,96.4,0.0,0.0,TakeOn,Unsuccessful,61
+1085,Ben Godfrey,22,31,53.7,3.6,0.0,0.0,Tackle,Successful,61
+1086,Luke Shaw,23,32,38.6,100.0,41.1,81.6,Pass,Successful,61
+1087,Bruno Fernandes,18,32,40.5,83.1,39.7,97.1,Pass,Successful,61
+1088,Luke Shaw,23,32,39.7,98.0,43.8,98.3,Pass,Successful,62
+1089,Bruno Fernandes,18,32,43.8,98.3,38.8,91.7,Pass,Successful,62
+1090,Luke Shaw,23,32,39.3,91.4,0.0,0.0,Foul,Successful,62
+1091,Allan,6,31,60.7,8.6,0.0,0.0,Foul,Unsuccessful,62
+1092,Fred,17,32,34.9,81.2,34.3,44.0,Pass,Successful,62
+1093,Scott McTominay,39,32,53.7,22.6,59.1,8.9,Pass,Successful,62
+1094,Aaron Wan-Bissaka,29,32,59.6,9.1,55.7,5.8,Pass,Successful,62
+1095,Mason Greenwood,11,32,55.7,5.8,54.2,27.4,Pass,Successful,62
+1096,Fred,17,32,54.2,27.4,43.4,30.8,Pass,Successful,62
+1097,Victor Lindelöf,2,32,44.1,32.0,45.3,66.3,Pass,Successful,62
+1098,Raphaël Varane,19,32,61.3,69.2,76.0,95.1,Pass,Successful,62
+1099,Jadon Sancho,25,32,83.6,81.6,77.5,67.2,Pass,Successful,62
+1100,Bruno Fernandes,18,32,77.5,67.2,78.2,94.7,Pass,Successful,62
+1101,Luke Shaw,23,32,63.1,76.2,55.9,46.1,Pass,Successful,62
+1102,Victor Lindelöf,2,32,64.4,32.3,62.8,21.1,Pass,Successful,62
+1103,Scott McTominay,39,32,65.3,22.1,74.2,10.4,Pass,Successful,62
+1104,Cristiano Ronaldo,7,32,71.1,12.7,74.8,1.9,Pass,Successful,63
+1105,Aaron Wan-Bissaka,29,32,74.6,4.3,72.8,14.8,Pass,Successful,63
+1106,Cristiano Ronaldo,7,32,71.2,15.8,0.0,0.0,Foul,Successful,63
+1107,Salomón Rondón,33,31,28.8,84.2,0.0,0.0,Foul,Unsuccessful,63
+1108,Aaron Wan-Bissaka,29,32,76.9,7.9,75.5,11.8,Pass,Successful,63
+1109,Scott McTominay,39,32,75.5,12.1,78.6,3.5,Pass,Successful,63
+1110,Aaron Wan-Bissaka,29,32,75.2,3.1,84.9,19.6,Pass,Successful,63
+1111,Bruno Fernandes,18,32,85.4,17.8,92.7,22.7,Pass,Successful,63
+1112,Scott McTominay,39,32,97.6,25.7,96.9,27.7,Pass,Unsuccessful,63
+1113,Allan,6,31,2.3,75.3,0.0,0.0,BlockedPass,Successful,63
+1114,Allan,6,31,2.7,73.8,0.0,0.0,CornerAwarded,Unsuccessful,63
+1115,Scott McTominay,39,32,97.3,26.2,0.0,0.0,CornerAwarded,Successful,63
+1116,Bruno Fernandes,18,32,99.5,0.5,91.9,40.7,Pass,Unsuccessful,63
+1117,Allan,6,31,8.6,59.7,30.5,67.5,Clearance,Successful,63
+1118,Fred,17,32,67.2,27.6,0.0,0.0,Dispossessed,Successful,64
+1119,Demarai Gray,11,31,32.8,72.4,0.0,0.0,Tackle,Successful,64
+1120,Demarai Gray,11,31,42.2,96.6,0.0,0.0,BallRecovery,Successful,64
+1121,Demarai Gray,11,31,55.4,97.2,62.6,77.6,Pass,Successful,64
+1122,Abdoulaye Doucouré,16,31,68.4,72.6,0.0,0.0,TakeOn,Successful,64
+1123,Luke Shaw,23,32,31.6,27.4,0.0,0.0,Challenge,Unsuccessful,64
+1124,Abdoulaye Doucouré,16,31,66.7,69.6,80.2,42.2,Pass,Successful,64
+1125,Andros Townsend,14,31,86.1,40.7,0.0,0.0,Goal,Successful,64
+1126,Cristiano Ronaldo,7,32,49.9,49.5,37.7,23.1,Pass,Successful,65
+1127,Aaron Wan-Bissaka,29,32,38.2,21.9,46.3,5.8,Pass,Successful,65
+1128,Mason Greenwood,11,32,46.7,11.2,38.9,37.5,Pass,Successful,65
+1129,Victor Lindelöf,2,32,38.9,44.9,45.3,91.2,Pass,Successful,65
+1130,Luke Shaw,23,32,46.4,84.6,47.8,79.1,Pass,Successful,65
+1131,Fred,17,32,47.8,79.1,48.3,79.8,Pass,Unsuccessful,65
+1132,Andros Townsend,14,31,52.7,25.0,0.0,0.0,BallTouch,Successful,65
+1133,Bruno Fernandes,18,32,62.8,64.8,55.3,41.9,Pass,Successful,65
+1134,Scott McTominay,39,32,55.3,41.9,69.9,35.3,Pass,Successful,65
+1135,Cristiano Ronaldo,7,32,69.9,35.3,75.6,6.4,Pass,Successful,65
+1136,Mason Greenwood,11,32,78.0,20.5,91.5,46.9,Pass,Unsuccessful,66
+1137,Yerry Mina,13,31,9.5,50.9,38.2,57.3,Clearance,Successful,66
+1138,Victor Lindelöf,2,32,63.1,45.0,0.0,0.0,Aerial,Successful,66
+1139,Demarai Gray,11,31,36.9,55.0,0.0,0.0,Aerial,Unsuccessful,66
+1140,Victor Lindelöf,2,32,61.3,45.7,69.8,79.5,Pass,Successful,66
+1141,Luke Shaw,23,32,69.9,79.8,81.4,87.8,Pass,Successful,66
+1142,Jadon Sancho,25,32,81.5,87.8,75.9,87.2,Pass,Successful,66
+1143,Luke Shaw,23,32,77.3,71.9,80.8,53.9,Pass,Unsuccessful,66
+1144,Allan,6,31,23.4,43.7,0.0,0.0,BallRecovery,Successful,66
+1145,Allan,6,31,22.0,41.9,35.0,29.2,Pass,Unsuccessful,66
+1146,Fred,17,32,65.7,70.5,63.1,59.4,Pass,Successful,66
+1147,Mason Greenwood,11,32,62.5,60.6,0.0,0.0,BallRecovery,Successful,66
+1148,Mason Greenwood,11,32,63.4,61.8,0.0,0.0,Foul,Successful,66
+1149,Abdoulaye Doucouré,16,31,36.6,38.2,0.0,0.0,Foul,Unsuccessful,66
+1150,Mason Greenwood,11,32,68.2,56.6,62.0,57.6,Pass,Successful,66
+1151,Fred,17,32,64.3,57.0,64.1,44.6,Pass,Successful,66
+1152,Bruno Fernandes,18,32,67.3,26.3,71.4,7.9,Pass,Successful,66
+1153,Aaron Wan-Bissaka,29,32,69.2,19.6,57.3,24.4,Pass,Successful,66
+1154,Scott McTominay,39,32,57.9,39.2,64.6,90.9,Pass,Successful,66
+1155,Luke Shaw,23,32,65.6,91.7,74.8,92.4,Pass,Successful,66
+1156,Jadon Sancho,25,32,88.6,92.9,0.0,0.0,TakeOn,Unsuccessful,66
+1157,Ben Godfrey,22,31,11.4,7.1,0.0,0.0,Tackle,Successful,66
+1158,Luke Shaw,23,32,82.6,100.0,63.8,95.4,Pass,Successful,66
+1159,Raphaël Varane,19,32,63.0,83.9,66.6,25.4,Pass,Successful,67
+1160,Aaron Wan-Bissaka,29,32,71.3,19.3,79.8,5.2,Pass,Successful,67
+1161,Mason Greenwood,11,32,79.8,5.2,93.0,11.3,Pass,Successful,67
+1162,Aaron Wan-Bissaka,29,32,92.8,13.9,0.0,0.0,TakeOn,Unsuccessful,67
+1163,Anthony Gordon,24,31,7.2,86.1,0.0,0.0,Tackle,Successful,67
+1164,Anthony Gordon,24,31,7.2,86.1,0.0,0.0,CornerAwarded,Unsuccessful,67
+1165,Aaron Wan-Bissaka,29,32,92.8,13.9,0.0,0.0,CornerAwarded,Successful,67
+1166,Bruno Fernandes,18,32,99.5,0.5,90.3,63.5,Pass,Unsuccessful,67
+1167,Andros Townsend,14,31,7.6,35.3,0.0,23.5,Clearance,Successful,67
+1168,Andros Townsend,14,31,4.5,30.0,0.0,0.0,CornerAwarded,Unsuccessful,67
+1169,Bruno Fernandes,18,32,95.5,70.0,0.0,0.0,CornerAwarded,Successful,67
+1170,Luke Shaw,23,32,99.5,99.5,91.9,57.3,Pass,Successful,67
+1171,Raphaël Varane,19,32,91.6,52.8,0.0,0.0,Aerial,Successful,67
+1172,Yerry Mina,13,31,8.4,47.2,0.0,0.0,Aerial,Unsuccessful,67
+1173,Raphaël Varane,19,32,91.9,57.3,0.0,0.0,MissedShots,Successful,67
+1174,Ben Godfrey,22,31,7.2,54.8,14.7,76.5,Clearance,Successful,67
+1175,Mason Greenwood,11,32,91.9,22.3,0.0,0.0,BallTouch,Unsuccessful,67
+1176,Andros Townsend,14,31,2.6,83.6,0.0,0.0,BallRecovery,Successful,67
+1177,Andros Townsend,14,31,2.0,86.6,0.0,0.0,Foul,Successful,68
+1178,Mason Greenwood,11,32,98.0,13.4,0.0,0.0,Foul,Unsuccessful,68
+1179,Jordan Pickford,1,31,2.2,84.0,61.8,87.6,Pass,Successful,68
+1180,Anthony Gordon,24,31,89.2,82.1,91.0,75.0,Pass,Unsuccessful,68
+1181,Aaron Wan-Bissaka,29,32,2.3,19.3,0.0,0.0,BallTouch,Successful,68
+1182,Fred,17,32,5.0,44.8,19.6,38.0,Clearance,Successful,68
+1183,Lucas Digne,12,31,79.6,67.2,0.0,0.0,TakeOn,Unsuccessful,68
+1184,Jadon Sancho,25,32,20.4,32.8,0.0,0.0,Tackle,Successful,68
+1185,Jadon Sancho,25,32,25.0,22.6,0.0,0.0,BallRecovery,Successful,68
+1186,Jadon Sancho,25,32,42.4,9.0,0.0,0.0,Dispossessed,Successful,68
+1187,Anthony Gordon,24,31,57.6,91.0,0.0,0.0,Tackle,Successful,68
+1188,Michael Keane,5,31,40.1,69.3,0.0,0.0,BallRecovery,Successful,69
+1189,Michael Keane,5,31,40.1,69.3,32.2,42.8,Pass,Successful,69
+1190,Yerry Mina,13,31,32.2,42.8,42.5,49.3,Pass,Successful,69
+1191,Abdoulaye Doucouré,16,31,44.1,44.6,54.2,7.1,Pass,Successful,69
+1192,Andros Townsend,14,31,70.0,10.9,79.1,25.3,Pass,Successful,69
+1193,Salomón Rondón,33,31,80.1,24.4,90.1,10.6,Pass,Successful,69
+1194,Ben Godfrey,22,31,90.4,7.9,86.5,28.4,Pass,Successful,69
+1195,Andros Townsend,14,31,80.6,30.7,0.0,0.0,MissedShots,Successful,69
+1196,Fred,17,32,0.0,0.0,0.0,0.0,SubstitutionOff,Successful,69
+1197,Paul Pogba,6,32,0.0,0.0,0.0,0.0,SubstitutionOn,Successful,69
+1198,David de Gea,1,32,5.2,42.2,22.1,76.4,Pass,Successful,69
+1199,Raphaël Varane,19,32,25.0,70.2,28.3,37.9,Pass,Successful,69
+1200,Victor Lindelöf,2,32,28.4,36.8,39.3,18.2,Pass,Successful,69
+1201,Scott McTominay,39,32,40.6,17.3,56.3,24.1,Pass,Successful,70
+1202,Mason Greenwood,11,32,56.3,24.1,54.9,32.9,Pass,Successful,70
+1203,Paul Pogba,6,32,54.9,33.1,65.0,57.8,Pass,Successful,70
+1204,Bruno Fernandes,18,32,65.3,57.3,78.3,83.0,Pass,Successful,70
+1205,Jadon Sancho,25,32,78.3,83.0,87.6,53.3,Pass,Unsuccessful,70
+1206,Michael Keane,5,31,9.4,40.4,63.4,5.2,Clearance,Successful,70
+1207,Raphaël Varane,19,32,29.9,82.8,44.4,92.1,Pass,Successful,70
+1208,Paul Pogba,6,32,44.0,90.9,34.2,63.3,Pass,Successful,70
+1209,Raphaël Varane,19,32,34.2,63.3,48.6,59.9,Pass,Successful,70
+1210,Scott McTominay,39,32,52.2,56.1,59.4,33.5,Pass,Successful,70
+1211,Cristiano Ronaldo,7,32,59.4,33.5,54.8,17.5,Pass,Successful,70
+1212,Victor Lindelöf,2,32,54.8,17.5,64.6,3.5,Pass,Successful,70
+1213,Aaron Wan-Bissaka,29,32,64.6,3.5,54.0,14.2,Pass,Successful,70
+1214,Victor Lindelöf,2,32,53.5,16.1,51.6,29.5,Pass,Successful,70
+1215,Scott McTominay,39,32,54.4,42.2,56.4,78.3,Pass,Successful,70
+1216,Paul Pogba,6,32,59.9,83.3,71.9,93.2,Pass,Successful,70
+1217,Luke Shaw,23,32,71.9,93.2,72.7,82.2,Pass,Successful,70
+1218,Jadon Sancho,25,32,72.7,82.2,70.6,92.4,Pass,Successful,70
+1219,Luke Shaw,23,32,70.6,92.4,58.0,66.9,Pass,Successful,70
+1220,Raphaël Varane,19,32,57.8,64.7,60.7,37.3,Pass,Successful,70
+1221,Victor Lindelöf,2,32,60.7,37.3,69.7,3.7,Pass,Successful,70
+1222,Aaron Wan-Bissaka,29,32,68.1,4.9,79.1,6.4,Pass,Successful,70
+1223,Mason Greenwood,11,32,79.1,6.4,68.4,4.3,Pass,Successful,70
+1224,Aaron Wan-Bissaka,29,32,72.1,26.8,75.1,21.4,Pass,Successful,71
+1225,Cristiano Ronaldo,7,32,75.6,36.5,66.0,57.9,Pass,Successful,71
+1226,Raphaël Varane,19,32,66.0,58.2,86.1,100.0,Pass,Unsuccessful,71
+1227,Anthony Gordon,24,31,0.0,0.0,0.0,0.0,SubstitutionOff,Successful,71
+1228,Tom Davies,26,31,0.0,0.0,0.0,0.0,SubstitutionOn,Successful,71
+1229,Ben Godfrey,22,31,21.5,0.0,51.9,7.9,Pass,Unsuccessful,72
+1230,Raphaël Varane,19,32,42.8,86.3,0.0,0.0,BallRecovery,Successful,72
+1231,Raphaël Varane,19,32,37.6,84.9,34.1,53.4,Pass,Successful,72
+1232,Victor Lindelöf,2,32,42.5,49.0,48.9,68.7,Pass,Successful,72
+1233,Paul Pogba,6,32,52.7,64.8,58.8,93.8,Pass,Successful,72
+1234,Luke Shaw,23,32,61.4,93.8,70.2,90.3,Pass,Successful,72
+1235,Bruno Fernandes,18,32,69.1,90.2,62.4,90.3,Pass,Successful,72
+1236,Luke Shaw,23,32,62.7,90.0,66.8,74.3,Pass,Successful,72
+1237,Paul Pogba,6,32,69.7,74.0,89.6,84.5,Pass,Successful,72
+1238,Jadon Sancho,25,32,87.5,84.8,77.9,56.6,Pass,Successful,72
+1239,Paul Pogba,6,32,78.2,57.5,83.1,48.5,Pass,Successful,72
+1240,Scott McTominay,39,32,85.4,49.8,0.0,0.0,SavedShot,Successful,72
+1241,Allan,6,31,10.6,49.4,0.0,0.0,Save,Successful,72
+1242,Demarai Gray,11,31,12.8,47.8,33.7,0.0,Clearance,Successful,72
+1243,Bruno Fernandes,18,32,63.3,100.0,58.9,83.7,Pass,Successful,72
+1244,Paul Pogba,6,32,58.9,83.4,60.9,94.7,Pass,Successful,72
+1245,Bruno Fernandes,18,32,60.9,94.7,53.4,92.3,Pass,Successful,72
+1246,Luke Shaw,23,32,56.5,92.4,59.4,98.1,Pass,Successful,72
+1247,Bruno Fernandes,18,32,60.3,96.8,46.5,72.6,Pass,Successful,72
+1248,Raphaël Varane,19,32,46.4,72.6,55.1,34.9,Pass,Successful,72
+1249,Victor Lindelöf,2,32,58.8,28.3,59.8,12.8,Pass,Successful,72
+1250,Aaron Wan-Bissaka,29,32,58.5,13.7,55.9,26.5,Pass,Successful,73
+1251,Victor Lindelöf,2,32,55.9,26.5,63.5,35.2,Pass,Successful,73
+1252,Paul Pogba,6,32,63.5,35.2,60.9,31.6,Pass,Unsuccessful,73
+1253,Tom Davies,26,31,34.7,81.3,0.0,0.0,BallTouch,Successful,73
+1254,Salomón Rondón,33,31,44.6,68.8,32.5,63.5,Pass,Unsuccessful,73
+1255,Paul Pogba,6,32,67.4,37.3,0.0,0.0,Interception,Successful,73
+1256,Yerry Mina,13,31,14.4,54.3,0.0,0.0,BallRecovery,Successful,73
+1257,Yerry Mina,13,31,14.4,54.3,41.6,66.8,Pass,Successful,73
+1258,Salomón Rondón,33,31,42.5,66.6,0.0,0.0,BallTouch,Successful,73
+1259,Tom Davies,26,31,44.0,69.5,59.9,84.8,Pass,Successful,73
+1260,Demarai Gray,11,31,95.4,70.1,0.0,0.0,BallTouch,Unsuccessful,73
+1261,David de Gea,1,32,4.5,51.9,25.2,71.4,Pass,Successful,73
+1262,Raphaël Varane,19,32,30.2,74.7,41.7,97.2,Pass,Successful,73
+1263,Cristiano Ronaldo,7,32,71.8,88.7,80.3,93.0,Pass,Successful,73
+1264,Jadon Sancho,25,32,83.7,87.3,95.9,65.7,Pass,Successful,73
+1265,Cristiano Ronaldo,7,32,95.9,65.7,0.0,0.0,MissedShots,Successful,73
+1266,Jordan Pickford,1,31,5.3,57.6,66.5,56.6,Pass,Unsuccessful,74
+1267,Raphaël Varane,19,32,30.9,40.0,42.9,46.1,Pass,Unsuccessful,74
+1268,Abdoulaye Doucouré,16,31,59.7,60.3,64.5,81.2,Pass,Successful,74
+1269,Demarai Gray,11,31,62.4,82.7,57.0,66.9,Pass,Successful,74
+1270,Allan,6,31,55.9,64.5,61.2,56.0,Pass,Successful,74
+1271,Abdoulaye Doucouré,16,31,59.5,56.1,57.4,60.8,Pass,Unsuccessful,74
+1272,Bruno Fernandes,18,32,41.9,38.0,0.0,0.0,BallTouch,Successful,74
+1273,Allan,6,31,57.1,65.9,86.5,96.9,Pass,Successful,74
+1274,Lucas Digne,12,31,93.4,98.7,93.4,97.7,Pass,Unsuccessful,74
+1275,Aaron Wan-Bissaka,29,32,6.0,6.4,0.0,0.0,Clearance,Successful,74
+1276,Lucas Digne,12,31,86.5,100.0,77.3,81.0,Pass,Successful,75
+1277,Abdoulaye Doucouré,16,31,80.2,75.5,0.0,0.0,TakeOn,Unsuccessful,75
+1278,Paul Pogba,6,32,19.8,24.5,0.0,0.0,Tackle,Unsuccessful,75
+1279,Abdoulaye Doucouré,16,31,80.6,71.0,0.0,0.0,BallTouch,Unsuccessful,75
+1280,Bruno Fernandes,18,32,19.7,32.1,0.0,0.0,Foul,Successful,75
+1281,Abdoulaye Doucouré,16,31,80.3,67.9,0.0,0.0,Foul,Unsuccessful,75
+1282,Abdoulaye Doucouré,16,31,0.0,0.0,0.0,0.0,Card,Successful,75
+1283,Victor Lindelöf,2,32,20.2,32.0,22.5,67.1,Pass,Successful,75
+1284,Raphaël Varane,19,32,21.9,67.1,32.4,69.2,Pass,Successful,75
+1285,Paul Pogba,6,32,32.4,69.2,25.0,64.5,Pass,Successful,75
+1286,Raphaël Varane,19,32,25.0,63.9,30.2,36.7,Pass,Successful,75
+1287,Victor Lindelöf,2,32,32.6,40.7,31.8,62.1,Pass,Successful,75
+1288,Raphaël Varane,19,32,46.9,78.2,61.9,96.5,Pass,Successful,75
+1289,Jadon Sancho,25,32,61.9,96.5,55.0,95.1,Pass,Successful,75
+1290,Luke Shaw,23,32,55.0,95.1,54.0,73.7,Pass,Successful,75
+1291,Mason Greenwood,11,32,69.8,61.8,0.0,0.0,OffsideGiven,Unsuccessful,76
+1292,Paul Pogba,6,32,55.4,45.4,87.4,64.2,Pass,Successful,76
+1293,Cristiano Ronaldo,7,32,87.4,64.2,78.5,65.6,Pass,Successful,76
+1294,Jadon Sancho,25,32,78.8,65.7,89.6,82.2,Pass,Successful,76
+1295,Cristiano Ronaldo,7,32,92.2,80.4,92.1,75.3,Pass,Unsuccessful,76
+1296,Ben Godfrey,22,31,7.1,24.7,0.0,0.0,Clearance,Successful,76
+1297,Cristiano Ronaldo,7,32,94.9,84.2,0.0,0.0,Aerial,Successful,76
+1298,Ben Godfrey,22,31,5.1,15.8,0.0,0.0,Aerial,Unsuccessful,76
+1299,Cristiano Ronaldo,7,32,95.2,82.2,90.2,82.7,Pass,Unsuccessful,76
+1300,Andros Townsend,14,31,11.1,15.2,0.0,0.0,BallRecovery,Successful,76
+1301,Andros Townsend,14,31,11.1,15.2,54.9,26.6,Pass,Unsuccessful,76
+1302,Raphaël Varane,19,32,43.8,74.9,0.0,0.0,BallTouch,Successful,76
+1303,Victor Lindelöf,2,32,42.2,77.3,0.0,0.0,BallRecovery,Successful,76
+1304,Victor Lindelöf,2,32,42.5,79.5,54.0,94.7,Pass,Successful,76
+1305,Bruno Fernandes,18,32,54.6,92.3,69.8,61.8,OffsidePass,Successful,76
+1306,Lucas Digne,12,31,32.6,63.3,0.0,0.0,OffsideProvoked,Successful,76
+1307,Jordan Pickford,1,31,23.6,34.1,66.3,19.4,Pass,Successful,77
+1308,Salomón Rondón,33,31,72.5,22.6,0.0,0.0,Aerial,Successful,77
+1309,Paul Pogba,6,32,27.5,77.4,0.0,0.0,Aerial,Unsuccessful,77
+1310,Salomón Rondón,33,31,66.3,19.4,79.1,31.1,Pass,Unsuccessful,77
+1311,Victor Lindelöf,2,32,18.7,66.2,0.0,0.0,BallTouch,Successful,77
+1312,David de Gea,1,32,2.3,66.3,0.0,0.0,KeeperPickup,Successful,77
+1313,David de Gea,1,32,9.1,57.8,24.9,17.9,Pass,Successful,77
+1314,Aaron Wan-Bissaka,29,32,28.5,18.7,30.8,30.8,Pass,Successful,77
+1315,Scott McTominay,39,32,36.9,36.5,41.4,67.7,Pass,Successful,77
+1316,Paul Pogba,6,32,42.4,70.2,53.3,96.3,Pass,Successful,77
+1317,Luke Shaw,23,32,58.2,76.8,53.1,71.0,Pass,Successful,77
+1318,Paul Pogba,6,32,50.3,65.7,56.6,21.1,Pass,Successful,77
+1319,Aaron Wan-Bissaka,29,32,56.6,21.1,88.3,15.8,Pass,Unsuccessful,77
+1320,Michael Keane,5,31,13.4,88.2,13.5,100.0,Clearance,Successful,77
+1321,Cristiano Ronaldo,7,32,85.2,0.0,70.5,3.8,Pass,Successful,77
+1322,Mason Greenwood,11,32,63.2,20.2,57.3,48.5,Pass,Successful,77
+1323,Raphaël Varane,19,32,65.2,55.2,68.2,84.9,Pass,Successful,77
+1324,Luke Shaw,23,32,68.9,87.0,82.0,94.5,Pass,Successful,77
+1325,Jadon Sancho,25,32,78.2,96.2,76.8,96.3,Pass,Unsuccessful,77
+1326,Andros Townsend,14,31,23.6,4.4,0.0,0.0,BlockedPass,Successful,77
+1327,Luke Shaw,23,32,72.5,100.0,68.8,89.1,Pass,Successful,78
+1328,Jadon Sancho,25,32,69.2,76.1,81.8,81.4,Pass,Successful,78
+1329,Bruno Fernandes,18,32,91.3,80.0,91.3,7.0,Pass,Unsuccessful,78
+1330,Aaron Wan-Bissaka,29,32,91.3,8.2,90.6,60.3,Pass,Successful,78
+1331,Bruno Fernandes,18,32,91.3,60.1,0.0,0.0,Aerial,Successful,78
+1332,Ben Godfrey,22,31,8.7,39.9,0.0,0.0,Aerial,Unsuccessful,78
+1333,Bruno Fernandes,18,32,90.6,59.0,0.0,0.0,MissedShots,Successful,78
+1334,Jordan Pickford,1,31,5.4,41.8,69.0,27.7,Pass,Successful,79
+1335,Salomón Rondón,33,31,69.0,25.4,66.9,13.9,Pass,Successful,79
+1336,Andros Townsend,14,31,69.0,5.0,53.7,7.1,Pass,Successful,79
+1337,Ben Godfrey,22,31,53.7,7.1,79.1,20.2,Pass,Unsuccessful,79
+1338,Raphaël Varane,19,32,20.1,76.7,26.2,93.8,Pass,Successful,79
+1339,Luke Shaw,23,32,26.2,93.8,0.0,0.0,BallRecovery,Successful,79
+1340,Luke Shaw,23,32,26.0,92.7,20.9,67.4,Pass,Successful,79
+1341,Victor Lindelöf,2,32,20.9,67.4,17.2,79.8,Pass,Successful,79
+1342,Raphaël Varane,19,32,19.8,78.2,22.2,61.2,Pass,Successful,79
+1343,Scott McTominay,39,32,25.8,49.1,31.2,14.6,Pass,Successful,79
+1344,Aaron Wan-Bissaka,29,32,33.1,18.7,44.6,42.4,Pass,Unsuccessful,79
+1345,Allan,6,31,53.0,56.7,53.8,56.1,Pass,Unsuccessful,79
+1346,Scott McTominay,39,32,44.8,44.6,0.0,0.0,BlockedPass,Successful,79
+1347,Allan,6,31,53.1,49.1,0.0,0.0,BallRecovery,Successful,80
+1348,Allan,6,31,53.1,49.1,45.3,48.2,Pass,Successful,80
+1349,Tom Davies,26,31,45.3,48.2,88.2,100.0,Pass,Unsuccessful,80
+1350,Aaron Wan-Bissaka,29,32,8.1,0.0,8.9,18.2,Pass,Successful,80
+1351,Victor Lindelöf,2,32,22.5,39.8,25.1,69.3,Pass,Successful,80
+1352,Raphaël Varane,19,32,25.1,69.3,36.6,93.6,Pass,Successful,80
+1353,Luke Shaw,23,32,41.2,95.4,43.6,96.2,Pass,Unsuccessful,80
+1354,Andros Townsend,14,31,57.9,3.1,0.0,0.0,BlockedPass,Successful,80
+1355,Luke Shaw,23,32,42.6,100.0,31.7,88.8,Pass,Successful,80
+1356,Raphaël Varane,19,32,36.5,76.2,41.0,35.8,Pass,Successful,80
+1357,Victor Lindelöf,2,32,63.8,29.5,70.0,3.1,Pass,Successful,80
+1358,Mason Greenwood,11,32,70.0,3.1,61.9,12.1,Pass,Successful,80
+1359,Aaron Wan-Bissaka,29,32,60.4,12.4,54.4,24.7,Pass,Successful,80
+1360,Victor Lindelöf,2,32,54.4,25.4,53.0,56.1,Pass,Successful,80
+1361,Raphaël Varane,19,32,65.5,68.7,77.0,93.8,Pass,Successful,80
+1362,Ben Godfrey,22,31,23.1,4.8,0.0,0.0,Challenge,Unsuccessful,80
+1363,Jadon Sancho,25,32,76.9,95.2,0.0,0.0,TakeOn,Successful,80
+1364,Jadon Sancho,25,32,89.0,83.4,81.4,69.5,Pass,Successful,80
+1365,Paul Pogba,6,32,80.8,68.0,0.0,0.0,MissedShots,Successful,81
+1366,Jordan Pickford,1,31,5.3,41.9,69.8,31.4,Pass,Unsuccessful,81
+1367,Raphaël Varane,19,32,27.7,72.9,42.5,82.1,Pass,Unsuccessful,81
+1368,Ben Godfrey,22,31,55.7,15.4,72.7,0.0,Pass,Unsuccessful,81
+1369,Luke Shaw,23,32,27.2,100.0,29.0,84.3,Pass,Successful,81
+1370,Scott McTominay,39,32,29.0,84.3,26.2,96.0,Pass,Successful,81
+1371,Luke Shaw,23,32,26.0,94.8,28.3,82.1,Pass,Successful,81
+1372,Scott McTominay,39,32,28.3,82.1,34.1,23.3,Pass,Successful,81
+1373,Aaron Wan-Bissaka,29,32,39.8,18.2,62.8,2.5,Pass,Successful,81
+1374,Mason Greenwood,11,32,61.9,9.2,77.3,4.4,Pass,Successful,82
+1375,Bruno Fernandes,18,32,83.6,3.7,86.3,9.2,Pass,Unsuccessful,82
+1376,Lucas Digne,12,31,12.6,93.5,0.0,0.0,Clearance,Successful,82
+1377,Bruno Fernandes,18,32,84.4,0.0,69.7,6.8,Pass,Successful,82
+1378,Mason Greenwood,11,32,70.6,26.9,69.3,40.7,Pass,Successful,82
+1379,Scott McTominay,39,32,69.3,46.9,73.7,81.2,Pass,Successful,82
+1380,Luke Shaw,23,32,72.0,80.6,65.3,55.7,Pass,Successful,82
+1381,Raphaël Varane,19,32,66.5,39.1,79.2,6.4,Pass,Successful,82
+1382,Aaron Wan-Bissaka,29,32,79.2,6.4,83.9,4.6,Pass,Successful,82
+1383,Bruno Fernandes,18,32,76.9,18.5,89.2,34.9,Pass,Successful,82
+1384,Paul Pogba,6,32,93.4,30.1,93.7,32.8,Pass,Unsuccessful,82
+1385,Allan,6,31,7.0,68.6,0.0,0.0,BlockedPass,Successful,82
+1386,Allan,6,31,7.6,67.9,0.0,0.0,CornerAwarded,Unsuccessful,82
+1387,Paul Pogba,6,32,92.4,32.1,0.0,0.0,CornerAwarded,Successful,82
+1388,Bruno Fernandes,18,32,99.5,0.5,92.9,49.3,Pass,Successful,83
+1389,Paul Pogba,6,32,92.9,49.3,0.0,0.0,MissedShots,Successful,83
+1390,Jordan Pickford,1,31,5.4,43.6,67.3,24.2,Pass,Successful,83
+1391,Salomón Rondón,33,31,67.5,23.9,84.8,36.4,Pass,Unsuccessful,83
+1392,Victor Lindelöf,2,32,19.0,68.7,0.0,0.0,BallRecovery,Successful,83
+1393,Victor Lindelöf,2,32,19.0,68.7,3.3,50.3,Pass,Successful,83
+1394,David de Gea,1,32,3.3,50.3,22.8,13.4,Pass,Successful,83
+1395,Aaron Wan-Bissaka,29,32,22.8,13.4,31.3,3.1,Pass,Successful,83
+1396,Mason Greenwood,11,32,31.3,3.1,31.8,26.0,Pass,Unsuccessful,83
+1397,Yerry Mina,13,31,92.2,52.4,0.0,0.0,OffsideGiven,Unsuccessful,84
+1398,Tom Davies,26,31,64.9,71.0,0.0,0.0,BallRecovery,Successful,84
+1399,Tom Davies,26,31,64.9,71.0,74.0,73.1,Pass,Successful,84
+1400,Demarai Gray,11,31,74.0,73.1,75.1,74.7,Pass,Successful,84
+1401,Abdoulaye Doucouré,16,31,89.6,71.1,0.0,0.0,SavedShot,Successful,84
+1402,Victor Lindelöf,2,32,7.8,31.1,0.0,0.0,Save,Successful,84
+1403,Abdoulaye Doucouré,16,31,90.1,71.8,0.0,0.0,CornerAwarded,Successful,84
+1404,Victor Lindelöf,2,32,9.9,28.2,0.0,0.0,CornerAwarded,Unsuccessful,84
+1405,Demarai Gray,11,31,99.5,99.5,96.1,45.4,Pass,Unsuccessful,84
+1406,Raphaël Varane,19,32,4.6,52.7,27.2,68.0,Clearance,Successful,84
+1407,Jadon Sancho,25,32,24.0,63.9,0.0,0.0,BallTouch,Unsuccessful,84
+1408,Ben Godfrey,22,31,73.9,38.0,0.0,0.0,BallTouch,Unsuccessful,84
+1409,Ben Godfrey,22,31,74.3,40.7,84.9,29.9,Pass,Successful,84
+1410,Tom Davies,26,31,90.9,35.7,92.2,52.4,OffsidePass,Successful,84
+1411,Victor Lindelöf,2,32,11.8,52.6,0.0,0.0,OffsideProvoked,Successful,84
+1412,David de Gea,1,32,12.9,54.8,20.3,70.5,Pass,Successful,85
+1413,Raphaël Varane,19,32,33.7,73.1,34.1,34.1,Pass,Successful,85
+1414,Victor Lindelöf,2,32,58.1,23.9,89.2,76.1,Pass,Successful,85
+1415,Bruno Fernandes,18,32,87.7,82.7,97.8,68.3,Pass,Successful,85
+1416,Paul Pogba,6,32,95.0,72.5,93.5,75.2,Pass,Unsuccessful,86
+1417,Andros Townsend,14,31,8.2,27.5,0.0,0.0,BlockedPass,Successful,86
+1418,Andros Townsend,14,31,4.5,29.6,0.0,0.0,BallRecovery,Successful,86
+1419,Yerry Mina,13,31,7.3,27.4,0.0,0.0,Foul,Successful,86
+1420,Paul Pogba,6,32,92.7,72.6,0.0,0.0,Foul,Unsuccessful,86
+1421,Jordan Pickford,1,31,13.1,25.9,74.1,23.3,Pass,Unsuccessful,86
+1422,Raphaël Varane,19,32,22.6,75.8,29.8,86.0,Pass,Successful,86
+1423,Paul Pogba,6,32,29.8,86.0,31.8,90.9,Pass,Successful,86
+1424,Luke Shaw,23,32,31.9,91.1,0.0,0.0,BallRecovery,Successful,87
+1425,Luke Shaw,23,32,32.0,91.1,30.3,82.5,Pass,Successful,87
+1426,Paul Pogba,6,32,30.3,82.5,28.6,91.5,Pass,Successful,87
+1427,Luke Shaw,23,32,28.5,92.0,18.9,84.6,Pass,Successful,87
+1428,Raphaël Varane,19,32,18.9,84.6,18.4,49.9,Pass,Successful,87
+1429,Victor Lindelöf,2,32,19.1,49.0,37.7,8.6,Pass,Successful,87
+1430,Aaron Wan-Bissaka,29,32,54.5,10.0,56.6,3.2,Pass,Successful,87
+1431,Mason Greenwood,11,32,56.6,3.2,48.6,26.9,Pass,Successful,87
+1432,Scott McTominay,39,32,55.7,28.6,78.1,83.1,Pass,Unsuccessful,87
+1433,Ben Godfrey,22,31,20.8,13.4,27.8,0.0,Clearance,Successful,87
+1434,Jadon Sancho,25,32,70.3,100.0,53.5,84.6,Pass,Successful,87
+1435,Luke Shaw,23,32,53.5,84.6,47.5,69.9,Pass,Successful,87
+1436,Raphaël Varane,19,32,48.3,64.5,53.5,30.4,Pass,Successful,87
+1437,Victor Lindelöf,2,32,57.8,24.1,72.8,7.3,Pass,Successful,87
+1438,Cristiano Ronaldo,7,32,78.5,9.7,82.2,16.1,Pass,Successful,87
+1439,Mason Greenwood,11,32,82.2,16.1,98.0,34.9,Pass,Unsuccessful,87
+1440,Jordan Pickford,1,31,2.8,65.1,0.0,0.0,KeeperPickup,Successful,87
+1441,Jordan Pickford,1,31,20.5,74.6,78.3,76.2,Pass,Unsuccessful,88
+1442,Victor Lindelöf,2,32,20.1,24.4,21.4,14.3,Pass,Successful,88
+1443,Aaron Wan-Bissaka,29,32,21.4,14.3,0.0,0.0,BallRecovery,Successful,88
+1444,Aaron Wan-Bissaka,29,32,24.3,9.5,44.0,10.4,Pass,Successful,88
+1445,Mason Greenwood,11,32,44.0,10.4,0.0,0.0,BallTouch,Unsuccessful,88
+1446,Allan,6,31,54.8,69.9,0.0,0.0,BallRecovery,Successful,88
+1447,Allan,6,31,54.8,69.9,58.2,90.5,Pass,Successful,88
+1448,Lucas Digne,12,31,58.0,91.5,62.4,93.2,Pass,Successful,88
+1449,Demarai Gray,11,31,63.6,93.2,63.8,85.1,Pass,Successful,88
+1450,Abdoulaye Doucouré,16,31,63.6,85.2,70.0,95.6,Pass,Successful,88
+1451,Lucas Digne,12,31,70.3,95.6,79.1,96.0,Pass,Unsuccessful,88
+1452,Aaron Wan-Bissaka,29,32,19.4,4.8,0.0,0.0,Dispossessed,Successful,88
+1453,Salomón Rondón,33,31,80.6,95.2,0.0,0.0,Tackle,Unsuccessful,88
+1454,Aaron Wan-Bissaka,29,32,23.2,1.9,23.9,3.4,Pass,Unsuccessful,88
+1455,Salomón Rondón,33,31,75.7,95.7,0.0,0.0,BlockedPass,Successful,88
+1456,Salomón Rondón,33,31,81.1,98.1,0.0,0.0,BallTouch,Unsuccessful,88
+1457,Aaron Wan-Bissaka,29,32,17.9,0.0,24.7,3.4,Pass,Successful,88
+1458,Bruno Fernandes,18,32,24.7,3.4,21.8,65.6,Pass,Successful,88
+1459,Raphaël Varane,19,32,39.2,81.2,49.0,64.5,Pass,Successful,88
+1460,Paul Pogba,6,32,53.1,64.8,94.6,83.3,Pass,Successful,88
+1461,Jadon Sancho,25,32,94.7,89.6,75.8,86.6,Pass,Successful,89
+1462,Luke Shaw,23,32,73.6,80.3,69.7,67.5,Pass,Successful,89
+1463,Paul Pogba,6,32,69.6,75.3,82.5,87.9,Pass,Successful,89
+1464,Jadon Sancho,25,32,84.8,87.6,0.0,0.0,TakeOn,Unsuccessful,89
+1465,Andros Townsend,14,31,15.2,12.4,0.0,0.0,Tackle,Unsuccessful,89
+1466,Jadon Sancho,25,32,73.7,84.2,79.7,77.7,Pass,Successful,89
+1467,Luke Shaw,23,32,79.1,86.6,78.6,91.5,Pass,Successful,89
+1468,Jadon Sancho,25,32,71.4,85.5,72.4,89.7,Pass,Successful,89
+1469,Paul Pogba,6,32,71.0,88.5,65.5,52.5,Pass,Successful,89
+1470,Scott McTominay,39,32,65.5,50.7,69.0,34.3,Pass,Successful,89
+1471,Cristiano Ronaldo,7,32,69.0,34.3,76.3,12.4,Pass,Successful,89
+1472,Aaron Wan-Bissaka,29,32,77.5,12.1,69.6,26.6,Pass,Successful,89
+1473,Scott McTominay,39,32,69.7,30.8,75.9,57.8,Pass,Successful,89
+1474,Paul Pogba,6,32,75.9,57.9,80.4,57.9,Pass,Unsuccessful,89
+1475,Andros Townsend,14,31,23.9,41.3,0.0,0.0,Interception,Successful,89
+1476,Bruno Fernandes,18,32,85.4,23.0,94.3,16.1,Pass,Successful,89
+1477,Aaron Wan-Bissaka,29,32,94.3,16.1,92.2,52.4,Pass,Unsuccessful,89
+1478,Yerry Mina,13,31,7.2,50.9,20.7,40.9,Clearance,Successful,89
+1479,Paul Pogba,6,32,77.0,56.6,86.3,68.1,Pass,Successful,89
+1480,Cristiano Ronaldo,7,32,86.3,68.0,90.2,71.1,Pass,Successful,89
+1481,Jadon Sancho,25,32,90.5,71.1,0.0,0.0,SavedShot,Successful,89
+1482,Jordan Pickford,1,31,2.4,46.7,0.0,0.0,Save,Successful,89
+1483,Jordan Pickford,1,31,2.4,46.7,0.0,0.0,KeeperPickup,Successful,89
+1484,Jordan Pickford,1,31,14.8,66.8,58.6,81.9,Pass,Unsuccessful,90
+1485,Scott McTominay,39,32,42.8,17.3,0.0,0.0,Foul,Successful,90
+1486,Salomón Rondón,33,31,57.2,82.7,0.0,0.0,Foul,Unsuccessful,90
+1487,Victor Lindelöf,2,32,36.6,16.1,33.7,40.0,Pass,Successful,90
+1488,Raphaël Varane,19,32,33.7,40.1,44.9,67.8,Pass,Successful,90
+1489,Luke Shaw,23,32,62.3,80.3,67.6,96.8,Pass,Successful,90
+1490,Jadon Sancho,25,32,66.5,94.5,55.3,71.1,Pass,Successful,90
+1491,Raphaël Varane,19,32,55.3,65.3,59.3,31.7,Pass,Successful,90
+1492,Victor Lindelöf,2,32,56.5,29.5,66.1,5.0,Pass,Successful,90
+1493,Mason Greenwood,11,32,57.9,34.3,64.6,78.3,Pass,Successful,90
+1494,Luke Shaw,23,32,64.8,81.2,74.7,94.4,Pass,Successful,90
+1495,Jadon Sancho,25,32,72.4,92.0,66.3,79.2,Pass,Successful,90
+1496,Luke Shaw,23,32,73.5,68.7,77.0,71.0,Pass,Unsuccessful,90
+1497,Andros Townsend,14,31,25.7,26.0,0.0,0.0,BallTouch,Successful,90
+1498,Cristiano Ronaldo,7,32,79.1,66.2,0.0,0.0,BallTouch,Unsuccessful,90
+1499,Abdoulaye Doucouré,16,31,25.1,40.2,25.8,38.4,Pass,Unsuccessful,90
+1500,Luke Shaw,23,32,78.0,62.1,0.0,0.0,BallTouch,Successful,90
+1501,Raphaël Varane,19,32,60.3,65.0,61.7,43.4,Pass,Successful,90
+1502,Scott McTominay,39,32,60.9,42.8,71.2,8.2,Pass,Successful,90
+1503,Aaron Wan-Bissaka,29,32,71.2,8.2,100.0,19.4,Pass,Unsuccessful,91
+1504,Demarai Gray,11,31,0.0,0.0,0.0,0.0,SubstitutionOff,Successful,91
+1505,Lewis Dobbin,61,31,0.0,0.0,0.0,0.0,SubstitutionOn,Successful,91
+1506,Jordan Pickford,1,31,5.2,41.6,77.0,6.7,Pass,Unsuccessful,92
+1507,Luke Shaw,23,32,24.8,83.7,0.0,0.0,BallRecovery,Successful,92
+1508,Luke Shaw,23,32,29.4,84.9,35.9,57.2,Pass,Successful,92
+1509,Bruno Fernandes,18,32,35.9,57.2,31.2,34.3,Pass,Successful,92
+1510,Victor Lindelöf,2,32,31.2,34.3,35.2,7.0,Pass,Successful,92
+1511,Aaron Wan-Bissaka,29,32,33.4,7.3,21.0,38.3,Pass,Successful,92
+1512,Victor Lindelöf,2,32,21.0,38.3,27.9,89.1,Pass,Successful,92
+1513,Raphaël Varane,19,32,28.4,89.3,69.0,84.3,Pass,Successful,92
+1514,Paul Pogba,6,32,71.7,85.5,0.0,0.0,Aerial,Successful,92
+1515,Yerry Mina,13,31,28.3,14.5,0.0,0.0,Aerial,Unsuccessful,92
+1516,Paul Pogba,6,32,68.9,84.5,70.7,83.7,Pass,Unsuccessful,92
+1517,Yerry Mina,13,31,26.1,18.8,0.0,0.0,BallTouch,Successful,92
+1518,Ben Godfrey,22,31,22.4,23.9,28.2,15.4,Pass,Successful,92
+1519,Yerry Mina,13,31,28.2,15.4,0.0,0.0,BallTouch,Successful,92
+1520,Paul Pogba,6,32,67.5,89.9,65.6,89.9,Pass,Unsuccessful,92
+1521,Andros Townsend,14,31,32.3,8.9,0.0,0.0,BallTouch,Successful,92
+1522,Abdoulaye Doucouré,16,31,34.7,5.5,0.0,0.0,BallRecovery,Successful,92
+1523,Abdoulaye Doucouré,16,31,34.7,5.5,35.8,3.5,Pass,Successful,92
+1524,Andros Townsend,14,31,40.3,5.6,51.3,24.8,Pass,Successful,92
+1525,Tom Davies,26,31,52.1,24.7,0.0,0.0,BallTouch,Unsuccessful,92
+1526,Bruno Fernandes,18,32,40.0,71.1,0.0,0.0,BallTouch,Successful,92
+1527,Raphaël Varane,19,32,31.4,70.8,68.3,47.9,Pass,Unsuccessful,92
+1528,Michael Keane,5,31,31.8,60.2,54.9,47.0,Pass,Unsuccessful,92
+1529,Scott McTominay,39,32,47.0,51.2,0.0,0.0,BallRecovery,Successful,92
+1530,Scott McTominay,39,32,51.7,47.0,65.6,49.0,Pass,Successful,92
+1531,Jadon Sancho,25,32,65.7,46.8,0.0,0.0,Foul,Successful,92
+1532,Yerry Mina,13,31,34.3,53.2,0.0,0.0,Foul,Unsuccessful,92
+1533,Cristiano Ronaldo,7,32,89.4,59.6,0.0,0.0,OffsideGiven,Unsuccessful,93
+1534,Bruno Fernandes,18,32,69.5,48.7,89.4,59.6,OffsidePass,Successful,93
+1535,Ben Godfrey,22,31,18.9,39.0,0.0,0.0,OffsideProvoked,Successful,93
+1536,Jordan Pickford,1,31,16.3,38.5,75.9,17.0,Pass,Unsuccessful,93
+1537,Raphaël Varane,19,32,24.1,82.8,0.0,0.0,Aerial,Successful,93
+1538,Salomón Rondón,33,31,75.9,17.2,0.0,0.0,Aerial,Unsuccessful,93
+1539,Raphaël Varane,19,32,25.2,85.4,0.0,0.0,BallRecovery,Successful,93
+1540,Raphaël Varane,19,32,25.6,86.4,56.0,100.0,Pass,Unsuccessful,93
+1541,Ben Godfrey,22,31,56.3,0.0,73.7,7.7,Pass,Unsuccessful,94
+1542,Luke Shaw,23,32,25.5,93.0,31.3,82.2,Pass,Unsuccessful,94
+1543,Tom Davies,26,31,67.3,15.1,72.5,9.7,Pass,Successful,94
+1544,Salomón Rondón,33,31,72.3,9.4,72.9,7.1,Pass,Unsuccessful,94
+1545,Luke Shaw,23,32,30.2,91.1,0.0,0.0,Interception,Successful,94
+1546,Jadon Sancho,25,32,31.7,90.2,0.0,0.0,BallRecovery,Successful,94
+1547,Jadon Sancho,25,32,31.9,90.2,49.1,81.2,Pass,Unsuccessful,94
+1548,Yerry Mina,13,31,47.3,18.1,0.0,0.0,BallRecovery,Successful,94
+1549,Yerry Mina,13,31,47.3,18.1,64.4,15.7,Pass,Unsuccessful,94
+1550,Jadon Sancho,25,32,40.6,86.1,0.0,0.0,Interception,Successful,94
+1551,Victor Lindelöf,2,32,27.1,64.4,0.0,0.0,BallRecovery,Successful,94
+1552,Victor Lindelöf,2,32,43.7,35.0,54.3,7.9,Pass,Successful,94
+1553,Mason Greenwood,11,32,53.8,26.2,78.7,66.3,Pass,Unsuccessful,94
+1554,Ben Godfrey,22,31,21.6,33.1,0.0,0.0,Aerial,Successful,94
+1555,Paul Pogba,6,32,78.4,66.9,0.0,0.0,Aerial,Unsuccessful,94
+1556,Ben Godfrey,22,31,22.6,29.7,23.1,28.1,Clearance,Successful,94
+1557,Paul Pogba,6,32,78.6,67.4,0.0,0.0,BallTouch,Successful,94
+1558,Ben Godfrey,22,31,22.4,25.9,0.0,0.0,BallTouch,Successful,94
